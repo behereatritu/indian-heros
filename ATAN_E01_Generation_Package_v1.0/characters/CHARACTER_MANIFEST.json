@@ -17,92 +17,226 @@
     {
       "path": "Atan/01_master_face.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-PROPOSED-v02",
+      "output_asset_id": "ATAN-PROPOSED-v02-FACE-MASTER",
+      "first_take_filename": "ATAN-PROPOSED-v02-FACE-MASTER_take01.png",
+      "filename_pattern": "ATAN-PROPOSED-v02-FACE-MASTER_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-PROPOSED-v02",
+      "input_asset_ids": []
     },
     {
       "path": "Atan/02_face_front.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-PROPOSED-v02",
+      "output_asset_id": "ATAN-PROPOSED-v02-FACE-FRONT",
+      "first_take_filename": "ATAN-PROPOSED-v02-FACE-FRONT_take01.png",
+      "filename_pattern": "ATAN-PROPOSED-v02-FACE-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER"
+      ]
     },
     {
       "path": "Atan/03_face_left_profile.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-PROPOSED-v02",
+      "output_asset_id": "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+      "first_take_filename": "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE_take01.png",
+      "filename_pattern": "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER"
+      ]
     },
     {
       "path": "Atan/04_face_right_profile.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-PROPOSED-v02",
+      "output_asset_id": "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+      "first_take_filename": "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE_take01.png",
+      "filename_pattern": "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER"
+      ]
     },
     {
       "path": "Atan/05_full_body_field_front.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-FIELD-PROPOSED-v02",
+      "output_asset_id": "ATAN-FIELD-PROPOSED-v02-BODY-FRONT",
+      "first_take_filename": "ATAN-FIELD-PROPOSED-v02-BODY-FRONT_take01.png",
+      "filename_pattern": "ATAN-FIELD-PROPOSED-v02-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-FIELD-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER"
+      ]
     },
     {
       "path": "Atan/06_full_body_field_rear.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-FIELD-PROPOSED-v02",
+      "output_asset_id": "ATAN-FIELD-PROPOSED-v02-BODY-REAR",
+      "first_take_filename": "ATAN-FIELD-PROPOSED-v02-BODY-REAR_take01.png",
+      "filename_pattern": "ATAN-FIELD-PROPOSED-v02-BODY-REAR_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-FIELD-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-FIELD-PROPOSED-v02-BODY-FRONT"
+      ]
     },
     {
       "path": "Atan/07_full_body_field_three-quarter.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-FIELD-PROPOSED-v02",
+      "output_asset_id": "ATAN-FIELD-PROPOSED-v02-BODY-3Q",
+      "first_take_filename": "ATAN-FIELD-PROPOSED-v02-BODY-3Q_take01.png",
+      "filename_pattern": "ATAN-FIELD-PROPOSED-v02-BODY-3Q_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-FIELD-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-FIELD-PROPOSED-v02-BODY-FRONT"
+      ]
     },
     {
       "path": "Atan/08_full_body_court_front.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-COURT-PROPOSED-v02",
+      "output_asset_id": "ATAN-COURT-PROPOSED-v02-BODY-FRONT",
+      "first_take_filename": "ATAN-COURT-PROPOSED-v02-BODY-FRONT_take01.png",
+      "filename_pattern": "ATAN-COURT-PROPOSED-v02-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-COURT-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-FIELD-PROPOSED-v02-BODY-FRONT"
+      ]
     },
     {
       "path": "Atan/09_full_body_court_rear.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-COURT-PROPOSED-v02",
+      "output_asset_id": "ATAN-COURT-PROPOSED-v02-BODY-REAR",
+      "first_take_filename": "ATAN-COURT-PROPOSED-v02-BODY-REAR_take01.png",
+      "filename_pattern": "ATAN-COURT-PROPOSED-v02-BODY-REAR_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-COURT-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-COURT-PROPOSED-v02-BODY-FRONT"
+      ]
     },
     {
       "path": "Atan/10_expression_listening.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-PROPOSED-v02",
+      "output_asset_id": "ATAN-PROPOSED-v02-EXPR-LISTENING",
+      "first_take_filename": "ATAN-PROPOSED-v02-EXPR-LISTENING_take01.png",
+      "filename_pattern": "ATAN-PROPOSED-v02-EXPR-LISTENING_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER"
+      ]
     },
     {
       "path": "Atan/11_expression_resolved.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "ATAN-PROPOSED-v02",
+      "output_asset_id": "ATAN-PROPOSED-v02-EXPR-RESOLVED",
+      "first_take_filename": "ATAN-PROPOSED-v02-EXPR-RESOLVED_take01.png",
+      "filename_pattern": "ATAN-PROPOSED-v02-EXPR-RESOLVED_take{take:02d}.png",
+      "planned_output_directory": "media/references/ATAN-PROPOSED-v02",
+      "input_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER"
+      ]
     },
     {
       "path": "Distant-Column/01_group_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "DISTANT-COLUMN-PROPOSED-v01",
+      "output_asset_id": "DISTANT-COLUMN-PROPOSED-v01-GROUP",
+      "first_take_filename": "DISTANT-COLUMN-PROPOSED-v01-GROUP_take01.png",
+      "filename_pattern": "DISTANT-COLUMN-PROPOSED-v01-GROUP_take{take:02d}.png",
+      "planned_output_directory": "media/references/DISTANT-COLUMN-PROPOSED-v01",
+      "input_asset_ids": []
     },
     {
       "path": "Officer-A/01_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "OFFICER-A-PROPOSED-v01",
+      "output_asset_id": "OFFICER-A-PROPOSED-v01-BODY-FRONT",
+      "first_take_filename": "OFFICER-A-PROPOSED-v01-BODY-FRONT_take01.png",
+      "filename_pattern": "OFFICER-A-PROPOSED-v01-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/OFFICER-A-PROPOSED-v01",
+      "input_asset_ids": []
     },
     {
       "path": "Officer-B/01_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "OFFICER-B-PROPOSED-v01",
+      "output_asset_id": "OFFICER-B-PROPOSED-v01-BODY-FRONT",
+      "first_take_filename": "OFFICER-B-PROPOSED-v01-BODY-FRONT_take01.png",
+      "filename_pattern": "OFFICER-B-PROPOSED-v01-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/OFFICER-B-PROPOSED-v01",
+      "input_asset_ids": []
     },
     {
       "path": "Withdrawal-Group/01_group_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "WITHDRAWAL-GROUP-PROPOSED-v01",
+      "output_asset_id": "WITHDRAWAL-GROUP-PROPOSED-v01-GROUP",
+      "first_take_filename": "WITHDRAWAL-GROUP-PROPOSED-v01-GROUP_take01.png",
+      "filename_pattern": "WITHDRAWAL-GROUP-PROPOSED-v01-GROUP_take{take:02d}.png",
+      "planned_output_directory": "media/references/WITHDRAWAL-GROUP-PROPOSED-v01",
+      "input_asset_ids": []
     },
     {
       "path": "Worker-A/01_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "WORKERS-A-PROPOSED-v01",
+      "output_asset_id": "WORKERS-A-PROPOSED-v01-BODY-FRONT",
+      "first_take_filename": "WORKERS-A-PROPOSED-v01-BODY-FRONT_take01.png",
+      "filename_pattern": "WORKERS-A-PROPOSED-v01-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/WORKERS-A-PROPOSED-v01",
+      "input_asset_ids": []
     },
     {
       "path": "Worker-B/01_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "WORKERS-B-PROPOSED-v01",
+      "output_asset_id": "WORKERS-B-PROPOSED-v01-BODY-FRONT",
+      "first_take_filename": "WORKERS-B-PROPOSED-v01-BODY-FRONT_take01.png",
+      "filename_pattern": "WORKERS-B-PROPOSED-v01-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/WORKERS-B-PROPOSED-v01",
+      "input_asset_ids": []
     },
     {
       "path": "Worker-C/01_reference.txt",
       "media_status": "MISSING",
-      "accepted_path": null
+      "accepted_path": null,
+      "reference_id": "WORKERS-C-PROPOSED-v01",
+      "output_asset_id": "WORKERS-C-PROPOSED-v01-BODY-FRONT",
+      "first_take_filename": "WORKERS-C-PROPOSED-v01-BODY-FRONT_take01.png",
+      "filename_pattern": "WORKERS-C-PROPOSED-v01-BODY-FRONT_take{take:02d}.png",
+      "planned_output_directory": "media/references/WORKERS-C-PROPOSED-v01",
+      "input_asset_ids": []
     }
-  ]
+  ],
+  "output_mapping_revision": "1.0",
+  "output_mapping": "../PROMPT_OUTPUT_MAP.json"
 }

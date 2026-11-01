@@ -297,6 +297,8 @@ Extends RIVER-PROPOSED-v01. S08–S10 share an **unnamed Assam riverbank reconst
 
 ## 5. Reference-image preparation prompts — planning only
 
+**Output naming addendum:** [PROMPT_OUTPUT_MAP.md](PROMPT_OUTPUT_MAP.md) maps each canonical standalone prompt and the inline location/prop examples below to output IDs and first-take filenames. For the face/turnaround examples use the expanded [character prompt mappings](characters/Atan/README.md). The [reference preparation map](references/README.md) identifies entries that only have a written specification. Naming does not approve or attach an image.
+
 No prompt below has been submitted. First create and inspect references in this order when generation is separately authorised: style sample → Atan face → costume views → empty locations/props → scene stills → one motion test. A text ID is a bookkeeping label, not an attached image reference.
 
 ### Character face and turnaround

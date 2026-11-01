@@ -15,6 +15,10 @@ All active character, physical-set and motion prompts now use photorealistic his
 - S06 is a restrained listening shot with a small camera push; the added nod beat is removed. S09 uses one camera truck with a settled gaze. S10 rises for 5.5 seconds, then holds for 1.5 seconds.
 - S03 is an editor-built locator; its optional image prompt creates only a paper texture. A dated text-only fallback is specified if the geographic reference is missing.
 
+## Output IDs and filenames
+
+Use [PROMPT_OUTPUT_MAP.md](PROMPT_OUTPUT_MAP.md) before generating. Each shot folder has an adjacent README with the exact starting-frame and video filenames for each aspect ratio. shot.json and shots.json contain matching output_assets fields. Reference inputs now link to their producer output IDs. These are planned names, not generated or approved files.
+
 ## Usage and timing
 
 Each shot folder contains full starting-frame prompts for 9:16 and 16:9, an animation prompt or editor instruction, narration text, and shot metadata. Prompts carry the actual subject description rather than relying on aliases alone. Reference IDs are inventory labels, not attached images or working provider tokens. Bind real inspected files to a supported live schema later. No model, cost, preset, frame rate or generation duration has been assumed.

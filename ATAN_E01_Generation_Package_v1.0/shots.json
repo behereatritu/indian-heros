@@ -17,7 +17,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "STYLE-E01-REAL-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-PROPOSED-v02",
@@ -25,7 +29,16 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-PROPOSED-v02-FACE-FRONT",
+        "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+        "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+        "ATAN-PROPOSED-v02-EXPR-LISTENING",
+        "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-COURT-PROPOSED-v02",
@@ -33,7 +46,12 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-COURT-PROPOSED-v02-BODY-FRONT",
+        "ATAN-COURT-PROPOSED-v02-BODY-REAR"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-FIELD-PROPOSED-v02",
@@ -41,7 +59,13 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Same garments, dust only along lower hem. Face reference separate.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-FIELD-PROPOSED-v02-BODY-FRONT",
+        "ATAN-FIELD-PROPOSED-v02-BODY-REAR",
+        "ATAN-FIELD-PROPOSED-v02-BODY-3Q"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "OFFICER-A-PROPOSED-v01",
@@ -49,7 +73,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Compact adult, short dark hair, olive upper cloth, cream lower wrap.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "OFFICER-A-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "OFFICER-B-PROPOSED-v01",
@@ -57,7 +85,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Lean adult, tied-back dark hair, narrower distinct face, earth-red upper cloth, dark-cream lower wrap.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "OFFICER-B-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WORKERS-A-PROPOSED-v01",
@@ -65,7 +97,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Adult carrier A, cream cloth; distinct face and body.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WORKERS-A-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WORKERS-B-PROPOSED-v01",
@@ -73,7 +109,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Adult carrier B, olive cloth; distinct face and body.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WORKERS-B-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WORKERS-C-PROPOSED-v01",
@@ -81,7 +121,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Adult observer C, brown cloth; stands clear.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WORKERS-C-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WITHDRAWAL-GROUP-PROPOSED-v01",
@@ -89,7 +133,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Four anonymous rear-view adults; two bundles; no identified king or actual escort.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WITHDRAWAL-GROUP-PROPOSED-v01-GROUP"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "DISTANT-COLUMN-PROPOSED-v01",
@@ -97,7 +145,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Eight small anonymous silhouettes; representational sample, not army size.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "DISTANT-COLUMN-PROPOSED-v01-GROUP"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "COURT-PROPOSED-v02",
@@ -105,7 +157,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "COURT-PROPOSED-v02-PLATE"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "GARHGAON-APPROACH-PROPOSED-v01",
@@ -113,7 +169,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L02 shallow settlement edge: earthen route Y=10, three timber roof silhouettes, foreground trunk left, overcast west light. Exclude later brick palace.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "GARHGAON-APPROACH-PROPOSED-v01-PLATE"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WITHDRAWAL-PATH-PROPOSED-v01",
@@ -121,7 +181,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L03 unnamed path bending near-left to far-right, forked trunk left; overcast west light.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WITHDRAWAL-PATH-PROPOSED-v01-PLATE"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "COMMAND-SHELTER-PROPOSED-v01",
@@ -129,7 +193,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "COMMAND-SHELTER-PROPOSED-v01-PLATE"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "RIVER-PROPOSED-v02",
@@ -137,7 +205,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "RIVER-PROPOSED-v02-PLATE"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "SEAT-SYMBOL-v01",
@@ -145,7 +217,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "SEAT-SYMBOL-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "TABLE-PROPOSED-v01",
@@ -153,7 +229,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "TABLE-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "BEAM-PROPOSED-v01",
@@ -161,7 +241,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "BEAM-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "BUNDLES-PROPOSED-v01",
@@ -169,7 +253,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Two tied cloth bundles smaller than an adult torso.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "BUNDLES-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "MAP-BASE-E01-PROPOSED-v01",
@@ -177,7 +265,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Region locator with geographic orientation checked; not a 1662 political boundary. Optional map can be replaced by dated text locator.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "MAP-BASE-E01-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "VO-E01-PROPOSED-v01",
@@ -185,7 +277,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Complete 105-word script reading; no approved voice take; Assamese names not audio-verified.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "VO-E01-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "SFX-E01-PROPOSED-v01",
@@ -193,7 +289,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Rights-cleared cloth, wood, footsteps, paper and river sounds; no selected recordings.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "SFX-E01-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "MUSIC-E01-PROPOSED-v01",
@@ -201,7 +301,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Rights-cleared restrained scoring; no selected recording.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     }
   ],
   "shots": [
@@ -263,7 +367,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "COURT-PROPOSED-v02",
@@ -271,7 +379,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "COURT-PROPOSED-v02-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "SEAT-SYMBOL-v01",
@@ -279,13 +391,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "SEAT-SYMBOL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S01-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S01-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S01-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S01/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S01-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S01-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S01-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S01/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S01_9x16",
+            "first_take_filename": "E01-S01_9x16_take01.mp4",
+            "filename_pattern": "E01-S01_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S01/9x16",
+            "input_frame_id": "E01-S01-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S01_16x9",
+            "first_take_filename": "E01-S01_16x9_take01.mp4",
+            "filename_pattern": "E01-S01_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S01/16x9",
+            "input_frame_id": "E01-S01-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S02",
@@ -347,7 +494,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-PROPOSED-v02",
@@ -355,7 +506,16 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-PROPOSED-v02-FACE-MASTER",
+            "ATAN-PROPOSED-v02-FACE-FRONT",
+            "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+            "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+            "ATAN-PROPOSED-v02-EXPR-LISTENING",
+            "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-COURT-PROPOSED-v02",
@@ -363,7 +523,12 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-COURT-PROPOSED-v02-BODY-FRONT",
+            "ATAN-COURT-PROPOSED-v02-BODY-REAR"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "COURT-PROPOSED-v02",
@@ -371,7 +536,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "COURT-PROPOSED-v02-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "SEAT-SYMBOL-v01",
@@ -379,13 +548,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "SEAT-SYMBOL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S02-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S02-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S02-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S02/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S02-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S02-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S02-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S02/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S02_9x16",
+            "first_take_filename": "E01-S02_9x16_take01.mp4",
+            "filename_pattern": "E01-S02_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S02/9x16",
+            "input_frame_id": "E01-S02-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S02_16x9",
+            "first_take_filename": "E01-S02_16x9_take01.mp4",
+            "filename_pattern": "E01-S02_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S02/16x9",
+            "input_frame_id": "E01-S02-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S03",
@@ -445,7 +649,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "MAP-BASE-E01-PROPOSED-v01",
@@ -453,13 +661,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Region locator with geographic orientation checked; not a 1662 political boundary. Optional map can be replaced by dated text locator.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "MAP-BASE-E01-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S03-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S03-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S03-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S03/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S03-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S03-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S03-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S03/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S03_9x16",
+            "first_take_filename": "E01-S03_9x16_take01.mp4",
+            "filename_pattern": "E01-S03_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S03/9x16",
+            "input_frame_id": null
+          },
+          "16x9": {
+            "output_asset_id": "E01-S03_16x9",
+            "first_take_filename": "E01-S03_16x9_take01.mp4",
+            "filename_pattern": "E01-S03_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S03/16x9",
+            "input_frame_id": null
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S04",
@@ -520,7 +763,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "GARHGAON-APPROACH-PROPOSED-v01",
@@ -528,7 +775,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L02 shallow settlement edge: earthen route Y=10, three timber roof silhouettes, foreground trunk left, overcast west light. Exclude later brick palace.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "GARHGAON-APPROACH-PROPOSED-v01-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "DISTANT-COLUMN-PROPOSED-v01",
@@ -536,13 +787,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Eight small anonymous silhouettes; representational sample, not army size.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "DISTANT-COLUMN-PROPOSED-v01-GROUP"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S04-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S04-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S04-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S04/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S04-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S04-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S04-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S04/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S04_9x16",
+            "first_take_filename": "E01-S04_9x16_take01.mp4",
+            "filename_pattern": "E01-S04_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S04/9x16",
+            "input_frame_id": "E01-S04-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S04_16x9",
+            "first_take_filename": "E01-S04_16x9_take01.mp4",
+            "filename_pattern": "E01-S04_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S04/16x9",
+            "input_frame_id": "E01-S04-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S05",
@@ -603,7 +889,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WITHDRAWAL-PATH-PROPOSED-v01",
@@ -611,7 +901,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L03 unnamed path bending near-left to far-right, forked trunk left; overcast west light.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WITHDRAWAL-PATH-PROPOSED-v01-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WITHDRAWAL-GROUP-PROPOSED-v01",
@@ -619,7 +913,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Four anonymous rear-view adults; two bundles; no identified king or actual escort.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WITHDRAWAL-GROUP-PROPOSED-v01-GROUP"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "BUNDLES-PROPOSED-v01",
@@ -627,13 +925,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Two tied cloth bundles smaller than an adult torso.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "BUNDLES-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S05-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S05-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S05-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S05/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S05-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S05-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S05-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S05/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S05_9x16",
+            "first_take_filename": "E01-S05_9x16_take01.mp4",
+            "filename_pattern": "E01-S05_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S05/9x16",
+            "input_frame_id": "E01-S05-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S05_16x9",
+            "first_take_filename": "E01-S05_16x9_take01.mp4",
+            "filename_pattern": "E01-S05_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S05/16x9",
+            "input_frame_id": "E01-S05-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S06",
@@ -695,7 +1028,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-PROPOSED-v02",
@@ -703,7 +1040,16 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-PROPOSED-v02-FACE-MASTER",
+            "ATAN-PROPOSED-v02-FACE-FRONT",
+            "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+            "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+            "ATAN-PROPOSED-v02-EXPR-LISTENING",
+            "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-FIELD-PROPOSED-v02",
@@ -711,7 +1057,13 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Same garments, dust only along lower hem. Face reference separate.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-FIELD-PROPOSED-v02-BODY-FRONT",
+            "ATAN-FIELD-PROPOSED-v02-BODY-REAR",
+            "ATAN-FIELD-PROPOSED-v02-BODY-3Q"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "COMMAND-SHELTER-PROPOSED-v01",
@@ -719,7 +1071,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "COMMAND-SHELTER-PROPOSED-v01-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "TABLE-PROPOSED-v01",
@@ -727,13 +1083,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "TABLE-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S06-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S06-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S06-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S06/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S06-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S06-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S06-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S06/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S06_9x16",
+            "first_take_filename": "E01-S06_9x16_take01.mp4",
+            "filename_pattern": "E01-S06_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S06/9x16",
+            "input_frame_id": "E01-S06-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S06_16x9",
+            "first_take_filename": "E01-S06_16x9_take01.mp4",
+            "filename_pattern": "E01-S06_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S06/16x9",
+            "input_frame_id": "E01-S06-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S07-A",
@@ -795,7 +1186,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-PROPOSED-v02",
@@ -803,7 +1198,16 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-PROPOSED-v02-FACE-MASTER",
+            "ATAN-PROPOSED-v02-FACE-FRONT",
+            "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+            "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+            "ATAN-PROPOSED-v02-EXPR-LISTENING",
+            "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-FIELD-PROPOSED-v02",
@@ -811,7 +1215,13 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Same garments, dust only along lower hem. Face reference separate.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-FIELD-PROPOSED-v02-BODY-FRONT",
+            "ATAN-FIELD-PROPOSED-v02-BODY-REAR",
+            "ATAN-FIELD-PROPOSED-v02-BODY-3Q"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "COMMAND-SHELTER-PROPOSED-v01",
@@ -819,7 +1229,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "COMMAND-SHELTER-PROPOSED-v01-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "TABLE-PROPOSED-v01",
@@ -827,13 +1241,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "TABLE-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S07-A-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S07-A-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S07-A-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S07-A/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S07-A-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S07-A-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S07-A-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S07-A/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S07-A_9x16",
+            "first_take_filename": "E01-S07-A_9x16_take01.mp4",
+            "filename_pattern": "E01-S07-A_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S07-A/9x16",
+            "input_frame_id": "E01-S07-A-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S07-A_16x9",
+            "first_take_filename": "E01-S07-A_16x9_take01.mp4",
+            "filename_pattern": "E01-S07-A_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S07-A/16x9",
+            "input_frame_id": "E01-S07-A-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S07-B",
@@ -895,7 +1344,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "OFFICER-A-PROPOSED-v01",
@@ -903,7 +1356,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Compact adult, short dark hair, olive upper cloth, cream lower wrap.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "OFFICER-A-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "OFFICER-B-PROPOSED-v01",
@@ -911,7 +1368,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Lean adult, tied-back dark hair, narrower distinct face, earth-red upper cloth, dark-cream lower wrap.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "OFFICER-B-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "COMMAND-SHELTER-PROPOSED-v01",
@@ -919,7 +1380,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "COMMAND-SHELTER-PROPOSED-v01-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "TABLE-PROPOSED-v01",
@@ -927,13 +1392,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "TABLE-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": "MISSING: accepted E01-S07-A frame for lighting/layout checks; not direct frame-accurate continuation.",
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S07-B-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S07-B-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S07-B-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S07-B/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S07-B-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S07-B-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S07-B-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S07-B/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S07-B_9x16",
+            "first_take_filename": "E01-S07-B_9x16_take01.mp4",
+            "filename_pattern": "E01-S07-B_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S07-B/9x16",
+            "input_frame_id": "E01-S07-B-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S07-B_16x9",
+            "first_take_filename": "E01-S07-B_16x9_take01.mp4",
+            "filename_pattern": "E01-S07-B_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S07-B/16x9",
+            "input_frame_id": "E01-S07-B-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S08-A",
@@ -997,7 +1497,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WORKERS-A-PROPOSED-v01",
@@ -1005,7 +1509,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Adult carrier A, cream cloth; distinct face and body.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WORKERS-A-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WORKERS-B-PROPOSED-v01",
@@ -1013,7 +1521,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Adult carrier B, olive cloth; distinct face and body.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WORKERS-B-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WORKERS-C-PROPOSED-v01",
@@ -1021,7 +1533,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Adult observer C, brown cloth; stands clear.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WORKERS-C-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "RIVER-PROPOSED-v02",
@@ -1029,7 +1545,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "RIVER-PROPOSED-v02-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "BEAM-PROPOSED-v01",
@@ -1037,13 +1557,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "BEAM-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S08-A-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S08-A-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S08-A-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S08-A/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S08-A-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S08-A-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S08-A-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S08-A/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S08-A_9x16",
+            "first_take_filename": "E01-S08-A_9x16_take01.mp4",
+            "filename_pattern": "E01-S08-A_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S08-A/9x16",
+            "input_frame_id": "E01-S08-A-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S08-A_16x9",
+            "first_take_filename": "E01-S08-A_16x9_take01.mp4",
+            "filename_pattern": "E01-S08-A_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S08-A/16x9",
+            "input_frame_id": "E01-S08-A-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S08-B",
@@ -1106,7 +1661,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WORKERS-A-PROPOSED-v01",
@@ -1114,7 +1673,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Adult carrier A, cream cloth; distinct face and body.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WORKERS-A-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "WORKERS-B-PROPOSED-v01",
@@ -1122,7 +1685,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Adult carrier B, olive cloth; distinct face and body.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "WORKERS-B-PROPOSED-v01-BODY-FRONT"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "RIVER-PROPOSED-v02",
@@ -1130,7 +1697,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "RIVER-PROPOSED-v02-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "BEAM-PROPOSED-v01",
@@ -1138,13 +1709,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "BEAM-PROPOSED-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": "MISSING: accepted E01-S08-A frame for beam, hand contact, cream garment and lighting match.",
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S08-B-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S08-B-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S08-B-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S08-B/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S08-B-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S08-B-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S08-B-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S08-B/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S08-B_9x16",
+            "first_take_filename": "E01-S08-B_9x16_take01.mp4",
+            "filename_pattern": "E01-S08-B_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S08-B/9x16",
+            "input_frame_id": "E01-S08-B-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S08-B_16x9",
+            "first_take_filename": "E01-S08-B_16x9_take01.mp4",
+            "filename_pattern": "E01-S08-B_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S08-B/16x9",
+            "input_frame_id": "E01-S08-B-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S09",
@@ -1205,7 +1811,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-PROPOSED-v02",
@@ -1213,7 +1823,16 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-PROPOSED-v02-FACE-MASTER",
+            "ATAN-PROPOSED-v02-FACE-FRONT",
+            "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+            "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+            "ATAN-PROPOSED-v02-EXPR-LISTENING",
+            "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "ATAN-FIELD-PROPOSED-v02",
@@ -1221,7 +1840,13 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Same garments, dust only along lower hem. Face reference separate.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "ATAN-FIELD-PROPOSED-v02-BODY-FRONT",
+            "ATAN-FIELD-PROPOSED-v02-BODY-REAR",
+            "ATAN-FIELD-PROPOSED-v02-BODY-3Q"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "RIVER-PROPOSED-v02",
@@ -1229,13 +1854,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "RIVER-PROPOSED-v02-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S09-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S09-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S09-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S09/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S09-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S09-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S09-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S09/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S09_9x16",
+            "first_take_filename": "E01-S09_9x16_take01.mp4",
+            "filename_pattern": "E01-S09_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S09/9x16",
+            "input_frame_id": "E01-S09-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S09_16x9",
+            "first_take_filename": "E01-S09_16x9_take01.mp4",
+            "filename_pattern": "E01-S09_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S09/16x9",
+            "input_frame_id": "E01-S09-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     },
     {
       "shot_id": "E01-S10",
@@ -1295,7 +1955,11 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "STYLE-E01-REAL-v01"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         },
         {
           "id": "RIVER-PROPOSED-v02",
@@ -1303,13 +1967,48 @@
           "status": "MISSING",
           "available": "Written specification only; no approved media attached",
           "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
-          "path": null
+          "path": null,
+          "producer_output_asset_ids": [
+            "RIVER-PROPOSED-v02-PLATE"
+          ],
+          "output_mapping": "PROMPT_OUTPUT_MAP.json"
         }
       ],
       "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
       "continuity_frame_dependency": null,
       "visual_style_reference_id": "STYLE-E01-REAL-v01",
-      "source_plan_revision": "1.1"
+      "source_plan_revision": "1.1",
+      "output_assets": {
+        "image_9x16": {
+          "output_asset_id": "E01-S10-F01-9x16-PROPOSED",
+          "first_take_filename": "E01-S10-F01-9x16-PROPOSED_take01.png",
+          "filename_pattern": "E01-S10-F01-9x16-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S10/9x16"
+        },
+        "image_16x9": {
+          "output_asset_id": "E01-S10-F01-16x9-PROPOSED",
+          "first_take_filename": "E01-S10-F01-16x9-PROPOSED_take01.png",
+          "filename_pattern": "E01-S10-F01-16x9-PROPOSED_take{take:02d}.png",
+          "planned_output_directory": "media/shots/E01-S10/16x9"
+        },
+        "video": {
+          "9x16": {
+            "output_asset_id": "E01-S10_9x16",
+            "first_take_filename": "E01-S10_9x16_take01.mp4",
+            "filename_pattern": "E01-S10_9x16_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S10/9x16",
+            "input_frame_id": "E01-S10-F01-9x16-PROPOSED"
+          },
+          "16x9": {
+            "output_asset_id": "E01-S10_16x9",
+            "first_take_filename": "E01-S10_16x9_take01.mp4",
+            "filename_pattern": "E01-S10_16x9_take{take:02d}.mp4",
+            "planned_output_directory": "media/shots/E01-S10/16x9",
+            "input_frame_id": "E01-S10-F01-16x9-PROPOSED"
+          }
+        }
+      },
+      "output_mapping": "PROMPT_OUTPUT_MAP.json"
     }
   ],
   "visual_style": "photorealistic cinematic historical drama",
@@ -1319,5 +2018,7 @@
     "original_library_file_id": "libfile_bc47cb6c86d08191be3e6f1e6d960f39",
     "note": "Repository SOURCE_PLAN.md is the corrected current source plan. The original external document has the previous style."
   },
-  "character_prompt_manifest": "characters/CHARACTER_MANIFEST.json"
+  "character_prompt_manifest": "characters/CHARACTER_MANIFEST.json",
+  "output_mapping_revision": "1.0",
+  "output_mapping": "PROMPT_OUTPUT_MAP.json"
 }

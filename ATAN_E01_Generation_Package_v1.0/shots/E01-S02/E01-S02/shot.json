@@ -58,7 +58,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "STYLE-E01-REAL-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-PROPOSED-v02",
@@ -66,7 +70,16 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-PROPOSED-v02-FACE-FRONT",
+        "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+        "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+        "ATAN-PROPOSED-v02-EXPR-LISTENING",
+        "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-COURT-PROPOSED-v02",
@@ -74,7 +87,12 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-COURT-PROPOSED-v02-BODY-FRONT",
+        "ATAN-COURT-PROPOSED-v02-BODY-REAR"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "COURT-PROPOSED-v02",
@@ -82,7 +100,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "COURT-PROPOSED-v02-PLATE"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "SEAT-SYMBOL-v01",
@@ -90,11 +112,46 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "SEAT-SYMBOL-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     }
   ],
   "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
   "continuity_frame_dependency": null,
   "visual_style_reference_id": "STYLE-E01-REAL-v01",
-  "source_plan_revision": "1.1"
+  "source_plan_revision": "1.1",
+  "output_assets": {
+    "image_9x16": {
+      "output_asset_id": "E01-S02-F01-9x16-PROPOSED",
+      "first_take_filename": "E01-S02-F01-9x16-PROPOSED_take01.png",
+      "filename_pattern": "E01-S02-F01-9x16-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S02/9x16"
+    },
+    "image_16x9": {
+      "output_asset_id": "E01-S02-F01-16x9-PROPOSED",
+      "first_take_filename": "E01-S02-F01-16x9-PROPOSED_take01.png",
+      "filename_pattern": "E01-S02-F01-16x9-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S02/16x9"
+    },
+    "video": {
+      "9x16": {
+        "output_asset_id": "E01-S02_9x16",
+        "first_take_filename": "E01-S02_9x16_take01.mp4",
+        "filename_pattern": "E01-S02_9x16_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S02/9x16",
+        "input_frame_id": "E01-S02-F01-9x16-PROPOSED"
+      },
+      "16x9": {
+        "output_asset_id": "E01-S02_16x9",
+        "first_take_filename": "E01-S02_16x9_take01.mp4",
+        "filename_pattern": "E01-S02_16x9_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S02/16x9",
+        "input_frame_id": "E01-S02-F01-16x9-PROPOSED"
+      }
+    }
+  },
+  "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
 }

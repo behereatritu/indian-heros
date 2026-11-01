@@ -59,7 +59,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "STYLE-E01-REAL-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WORKERS-A-PROPOSED-v01",
@@ -67,7 +71,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Adult carrier A, cream cloth; distinct face and body.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WORKERS-A-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "WORKERS-B-PROPOSED-v01",
@@ -75,7 +83,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Adult carrier B, olive cloth; distinct face and body.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "WORKERS-B-PROPOSED-v01-BODY-FRONT"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "RIVER-PROPOSED-v02",
@@ -83,7 +95,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "RIVER-PROPOSED-v02-PLATE"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "BEAM-PROPOSED-v01",
@@ -91,11 +107,46 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "BEAM-PROPOSED-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     }
   ],
   "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
   "continuity_frame_dependency": "MISSING: accepted E01-S08-A frame for beam, hand contact, cream garment and lighting match.",
   "visual_style_reference_id": "STYLE-E01-REAL-v01",
-  "source_plan_revision": "1.1"
+  "source_plan_revision": "1.1",
+  "output_assets": {
+    "image_9x16": {
+      "output_asset_id": "E01-S08-B-F01-9x16-PROPOSED",
+      "first_take_filename": "E01-S08-B-F01-9x16-PROPOSED_take01.png",
+      "filename_pattern": "E01-S08-B-F01-9x16-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S08-B/9x16"
+    },
+    "image_16x9": {
+      "output_asset_id": "E01-S08-B-F01-16x9-PROPOSED",
+      "first_take_filename": "E01-S08-B-F01-16x9-PROPOSED_take01.png",
+      "filename_pattern": "E01-S08-B-F01-16x9-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S08-B/16x9"
+    },
+    "video": {
+      "9x16": {
+        "output_asset_id": "E01-S08-B_9x16",
+        "first_take_filename": "E01-S08-B_9x16_take01.mp4",
+        "filename_pattern": "E01-S08-B_9x16_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S08-B/9x16",
+        "input_frame_id": "E01-S08-B-F01-9x16-PROPOSED"
+      },
+      "16x9": {
+        "output_asset_id": "E01-S08-B_16x9",
+        "first_take_filename": "E01-S08-B_16x9_take01.mp4",
+        "filename_pattern": "E01-S08-B_16x9_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S08-B/16x9",
+        "input_frame_id": "E01-S08-B-F01-16x9-PROPOSED"
+      }
+    }
+  },
+  "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
 }

@@ -9,3 +9,5 @@ Natural skin texture, practical-looking wrapped cloth and physically plausible t
 S03 is intentionally an editor-built locator graphic; its optional background is photographed paper texture. Maps, captions, source notes and dates are composited editorial layers. The character/physical-world standard remains photographic.
 
 All prior illustrated character and location tests need review as composition inspiration only; none is approved to drive photographic identity or style. Use the new characters/ prompts before scene generation. No media generation is authorised or executed by this documentation update.
+
+Output naming: the selected style-reference image uses output ID STYLE-E01-REAL-v01; first take STYLE-E01-REAL-v01_take01.png. This may be an existing reviewed image assigned to the style role; this text does not name an already approved image. See [the reference map](references/README.md).

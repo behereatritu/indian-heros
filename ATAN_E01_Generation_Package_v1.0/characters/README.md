@@ -7,3 +7,11 @@ The Atan folder includes master face, front/left/right face views, field front/r
 Use an intact full-body costume reference and a separate face crop. Keep the two forehead marks on anatomical left and the waist knot on anatomical right. Do not mirror frames. Exact face, hair, costume cut and staging remain reconstruction even when the result is photorealistic. A modern illustrated test is not an authenticated historical portrait or an approved photographic identity reference.
 
 See CHARACTER_MANIFEST.json for missing-state tracking and ../SOURCE_PLAN.md for evidence and exact set layouts.
+
+## Output IDs and save-as filenames
+
+Every character prompt now has an exact output name in its folder README and CHARACTER_MANIFEST.json. Start with [Atan’s mapping](Atan/README.md).
+
+Example: `Atan/01_master_face.txt` supplies `ATAN-PROPOSED-v02`, produces `ATAN-PROPOSED-v02-FACE-MASTER`, and its first result is saved as `ATAN-PROPOSED-v02-FACE-MASTER_take01.png`. Front/profile/expression images have their own output IDs within the same identity reference group.
+
+See [all prompt mappings](../PROMPT_OUTPUT_MAP.md). No generated images are registered or approved by this documentation update.

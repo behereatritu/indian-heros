@@ -58,7 +58,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "STYLE-E01-REAL-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-PROPOSED-v02",
@@ -66,7 +70,16 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-PROPOSED-v02-FACE-MASTER",
+        "ATAN-PROPOSED-v02-FACE-FRONT",
+        "ATAN-PROPOSED-v02-FACE-LEFT-PROFILE",
+        "ATAN-PROPOSED-v02-FACE-RIGHT-PROFILE",
+        "ATAN-PROPOSED-v02-EXPR-LISTENING",
+        "ATAN-PROPOSED-v02-EXPR-RESOLVED"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "ATAN-FIELD-PROPOSED-v02",
@@ -74,7 +87,13 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Same garments, dust only along lower hem. Face reference separate.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "ATAN-FIELD-PROPOSED-v02-BODY-FRONT",
+        "ATAN-FIELD-PROPOSED-v02-BODY-REAR",
+        "ATAN-FIELD-PROPOSED-v02-BODY-3Q"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "COMMAND-SHELTER-PROPOSED-v01",
@@ -82,7 +101,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "COMMAND-SHELTER-PROPOSED-v01-PLATE"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "TABLE-PROPOSED-v01",
@@ -90,11 +113,46 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "TABLE-PROPOSED-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     }
   ],
   "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
   "continuity_frame_dependency": null,
   "visual_style_reference_id": "STYLE-E01-REAL-v01",
-  "source_plan_revision": "1.1"
+  "source_plan_revision": "1.1",
+  "output_assets": {
+    "image_9x16": {
+      "output_asset_id": "E01-S07-A-F01-9x16-PROPOSED",
+      "first_take_filename": "E01-S07-A-F01-9x16-PROPOSED_take01.png",
+      "filename_pattern": "E01-S07-A-F01-9x16-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S07-A/9x16"
+    },
+    "image_16x9": {
+      "output_asset_id": "E01-S07-A-F01-16x9-PROPOSED",
+      "first_take_filename": "E01-S07-A-F01-16x9-PROPOSED_take01.png",
+      "filename_pattern": "E01-S07-A-F01-16x9-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S07-A/16x9"
+    },
+    "video": {
+      "9x16": {
+        "output_asset_id": "E01-S07-A_9x16",
+        "first_take_filename": "E01-S07-A_9x16_take01.mp4",
+        "filename_pattern": "E01-S07-A_9x16_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S07-A/9x16",
+        "input_frame_id": "E01-S07-A-F01-9x16-PROPOSED"
+      },
+      "16x9": {
+        "output_asset_id": "E01-S07-A_16x9",
+        "first_take_filename": "E01-S07-A_16x9_take01.mp4",
+        "filename_pattern": "E01-S07-A_16x9_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S07-A/16x9",
+        "input_frame_id": "E01-S07-A-F01-16x9-PROPOSED"
+      }
+    }
+  },
+  "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
 }

@@ -56,7 +56,11 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "STYLE-E01-REAL-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     },
     {
       "id": "MAP-BASE-E01-PROPOSED-v01",
@@ -64,11 +68,46 @@
       "status": "MISSING",
       "available": "Written specification only; no approved media attached",
       "description": "Region locator with geographic orientation checked; not a 1662 political boundary. Optional map can be replaced by dated text locator.",
-      "path": null
+      "path": null,
+      "producer_output_asset_ids": [
+        "MAP-BASE-E01-PROPOSED-v01"
+      ],
+      "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
     }
   ],
   "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
   "continuity_frame_dependency": null,
   "visual_style_reference_id": "STYLE-E01-REAL-v01",
-  "source_plan_revision": "1.1"
+  "source_plan_revision": "1.1",
+  "output_assets": {
+    "image_9x16": {
+      "output_asset_id": "E01-S03-F01-9x16-PROPOSED",
+      "first_take_filename": "E01-S03-F01-9x16-PROPOSED_take01.png",
+      "filename_pattern": "E01-S03-F01-9x16-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S03/9x16"
+    },
+    "image_16x9": {
+      "output_asset_id": "E01-S03-F01-16x9-PROPOSED",
+      "first_take_filename": "E01-S03-F01-16x9-PROPOSED_take01.png",
+      "filename_pattern": "E01-S03-F01-16x9-PROPOSED_take{take:02d}.png",
+      "planned_output_directory": "media/shots/E01-S03/16x9"
+    },
+    "video": {
+      "9x16": {
+        "output_asset_id": "E01-S03_9x16",
+        "first_take_filename": "E01-S03_9x16_take01.mp4",
+        "filename_pattern": "E01-S03_9x16_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S03/9x16",
+        "input_frame_id": null
+      },
+      "16x9": {
+        "output_asset_id": "E01-S03_16x9",
+        "first_take_filename": "E01-S03_16x9_take01.mp4",
+        "filename_pattern": "E01-S03_16x9_take{take:02d}.mp4",
+        "planned_output_directory": "media/shots/E01-S03/16x9",
+        "input_frame_id": null
+      }
+    }
+  },
+  "output_mapping": "../../../PROMPT_OUTPUT_MAP.json"
 }
