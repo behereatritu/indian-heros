@@ -1,0 +1,89 @@
+{
+  "shot_id": "E01-S05",
+  "scene_id": "E01-S05",
+  "start_seconds": 22,
+  "end_seconds": 26,
+  "edit_duration_seconds": 4,
+  "title": "Withdrawal represented",
+  "narration": "Raja ko rajdhani chhodkar hatna pada.",
+  "claim_ids": [
+    "C02"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "WITHDRAWAL-PATH-PROPOSED-v01",
+    "WITHDRAWAL-GROUP-PROPOSED-v01",
+    "BUNDLES-PROPOSED-v01"
+  ],
+  "camera_setup": "Locked rear medium-wide, 50 mm equivalent look, Z=1.4 m, camera near (2,0), nearest person ~4 m away; look along the receding path.",
+  "start_pose": "Four anonymous adults seen from behind on an unnamed rural path, clearly separated; two carry small tied cloth bundles and two have free hands. Plain subdued wrapped garments. Forked trunk left, route bends towards upper-right, soft overcast west light. None is an identified depiction of the king or his actual escort.",
+  "portrait_composition": "9:16: all four complete silhouettes staggered into depth; keep the path ahead visible.",
+  "landscape_composition": "16:9: group left-centre with open receding ground right; maintain rear view and route bend.",
+  "animation_action": "Locked camera for 4 s. Four figures take two ordinary steps away from the camera, retaining spacing. Bundles stay attached and fixed in size. No turning or new gesture; end still receding.",
+  "sound_direction": "Cloth and bundle rustles, light soil footfalls. No invented royal orders or distressed crowd voices.",
+  "continuity_notes": "Withdrawal route, people and weather are reconstruction. Avoid regal props that would imply an authenticated escort. This is a separate montage location.",
+  "entry_state": "Four distinct backs, two secured bundles.",
+  "exit_state": "All four still receding; cut on narration naming Atan.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: rear medium-wide, 1.4 metre height, looking along the path at a nearest figure about four metres away; 50 mm equivalent perspective.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: rear medium-wide, 1.4 metre height, looking along the path at a nearest figure about four metres away; 50 mm equivalent perspective.\n\nFour anonymous adults seen from behind on an unnamed rural path, clearly separated; two carry small tied cloth bundles and two have free hands. Plain subdued wrapped garments. Forked trunk left, route bends towards upper-right, soft overcast west light. None is an identified depiction of the king or his actual escort.\n\n9:16: all four complete silhouettes staggered into depth; keep the path ahead visible.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: rear medium-wide, 1.4 metre height, looking along the path at a nearest figure about four metres away; 50 mm equivalent perspective.\n\nFour anonymous adults seen from behind on an unnamed rural path, clearly separated; two carry small tied cloth bundles and two have free hands. Plain subdued wrapped garments. Forked trunk left, route bends towards upper-right, soft overcast west light. None is an identified depiction of the king or his actual escort.\n\n16:9: group left-centre with open receding ground right; maintain rear view and route bend.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 4 s. Four figures take two ordinary steps away from the camera, retaining spacing. Bundles stay attached and fixed in size. No turning or new gesture; end still receding.",
+  "frame_ids": {
+    "9x16": "E01-S05-F01-9x16-PROPOSED",
+    "16x9": "E01-S05-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "WITHDRAWAL-PATH-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L03 unnamed path bending near-left to far-right, forked trunk left; overcast west light.",
+      "path": null
+    },
+    {
+      "id": "WITHDRAWAL-GROUP-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Four anonymous rear-view adults; two bundles; no identified king or actual escort.",
+      "path": null
+    },
+    {
+      "id": "BUNDLES-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Two tied cloth bundles smaller than an adult torso.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

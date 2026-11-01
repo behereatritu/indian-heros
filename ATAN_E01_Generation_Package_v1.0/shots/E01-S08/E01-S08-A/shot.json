@@ -1,0 +1,108 @@
+{
+  "shot_id": "E01-S08-A",
+  "scene_id": "E01-S08",
+  "start_seconds": 39,
+  "end_seconds": 41.5,
+  "edit_duration_seconds": 2.5,
+  "title": "Supported beam setup",
+  "narration": "1663 mein sandhi hui.",
+  "claim_ids": [
+    "C12",
+    "C03"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "WORKERS-A-PROPOSED-v01",
+    "WORKERS-B-PROPOSED-v01",
+    "WORKERS-C-PROPOSED-v01",
+    "RIVER-PROPOSED-v02",
+    "BEAM-PROPOSED-v01"
+  ],
+  "camera_setup": "Locked wide, 35 mm equivalent look, Z=1.5 m, south-bank camera near (5,0.8), looking north. Beam axis east-west, held horizontally at waist level.",
+  "start_pose": "At an unnamed riverbank worksite, two distinct adult workers A and B already support opposite ends of ONE rigid two-metre timber beam at waist level. Hands visibly contact its underside. A wears plain cream, B olive cloth; C in brown stands clear near (7.8,6). Dry bank Y<8; river beyond, timber stack left-middle, shelter left, one tree right. East early light. Atan absent.",
+  "portrait_composition": "9:16: stage depth and camera distance so the entire beam and both supporting bodies fit, clear of subtitle area.",
+  "landscape_composition": "16:9: full beam across central strip with both carriers and the observer separated; all feet on dry ground.",
+  "animation_action": "Camera locked for a 2.5 s editorial selection. Both carriers hold the beam already supported at waist height; bodies show natural weight and minimal breathing. The observer stands clear. Keep the beam rigid and all contact points unchanged. No lifting or walking in this setup.",
+  "sound_direction": "Soft wood tension and river air. Add “1663 • Sandhi ke baad” in editing and carry the label into S08-B long enough to read. Sober music; no victory fanfare.",
+  "continuity_notes": "This is illustrative preparation/recovery work, not an identified project or treaty ceremony. Changes from S07 are an explicit time/location cut; eastern light replaces shelter west light.",
+  "entry_state": "Beam already held; three bodies separate.",
+  "exit_state": "Beam still horizontal, carriers stationary; hand position/grain must match S08-B.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: eye-level wide from the south bank looking north, 35 mm equivalent perspective; horizontal beam and all three people readable.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level wide from the south bank looking north, 35 mm equivalent perspective; horizontal beam and all three people readable.\n\nAt an unnamed riverbank worksite, two distinct adult workers A and B already support opposite ends of ONE rigid two-metre timber beam at waist level. Hands visibly contact its underside. A wears plain cream, B olive cloth; C in brown stands clear near (7.8,6). Dry bank Y<8; river beyond, timber stack left-middle, shelter left, one tree right. East early light. Atan absent.\n\n9:16: stage depth and camera distance so the entire beam and both supporting bodies fit, clear of subtitle area.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level wide from the south bank looking north, 35 mm equivalent perspective; horizontal beam and all three people readable.\n\nAt an unnamed riverbank worksite, two distinct adult workers A and B already support opposite ends of ONE rigid two-metre timber beam at waist level. Hands visibly contact its underside. A wears plain cream, B olive cloth; C in brown stands clear near (7.8,6). Dry bank Y<8; river beyond, timber stack left-middle, shelter left, one tree right. East early light. Atan absent.\n\n16:9: full beam across central strip with both carriers and the observer separated; all feet on dry ground.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for a 2.5 s editorial selection. Both carriers hold the beam already supported at waist height; bodies show natural weight and minimal breathing. The observer stands clear. Keep the beam rigid and all contact points unchanged. No lifting or walking in this setup.",
+  "frame_ids": {
+    "9x16": "E01-S08-A-F01-9x16-PROPOSED",
+    "16x9": "E01-S08-A-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-A-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult carrier A, cream cloth; distinct face and body.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-B-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult carrier B, olive cloth; distinct face and body.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-C-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult observer C, brown cloth; stands clear.",
+      "path": null
+    },
+    {
+      "id": "RIVER-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+      "path": null
+    },
+    {
+      "id": "BEAM-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

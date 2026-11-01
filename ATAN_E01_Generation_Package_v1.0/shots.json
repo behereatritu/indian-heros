@@ -1,0 +1,1292 @@
+{
+  "package_version": "1.0",
+  "episode": "ATAN_E01",
+  "source_plan": "ATAN_E01_Integrated_Production_Plan_v1.0.md",
+  "source_library_file_id": "libfile_bc47cb6c86d08191be3e6f1e6d960f39",
+  "status": "PROMPTS_ONLY",
+  "approved_visual_asset_count": 0,
+  "media_jobs_submitted": 0,
+  "planned_total_duration_seconds": 60,
+  "parent_scene_count": 10,
+  "playable_shot_count": 12,
+  "narration_unchanged": true,
+  "timing_measured": false,
+  "references": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "ATAN-PROPOSED-v02",
+      "role": "identity",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+      "path": null
+    },
+    {
+      "id": "ATAN-COURT-PROPOSED-v02",
+      "role": "costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge.",
+      "path": null
+    },
+    {
+      "id": "ATAN-FIELD-PROPOSED-v02",
+      "role": "costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Same garments, dust only along lower hem. Face reference separate.",
+      "path": null
+    },
+    {
+      "id": "OFFICER-A-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Compact adult, short dark hair, olive upper cloth, cream lower wrap.",
+      "path": null
+    },
+    {
+      "id": "OFFICER-B-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Lean adult, tied-back dark hair, narrower distinct face, earth-red upper cloth, dark-cream lower wrap.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-A-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult carrier A, cream cloth; distinct face and body.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-B-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult carrier B, olive cloth; distinct face and body.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-C-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult observer C, brown cloth; stands clear.",
+      "path": null
+    },
+    {
+      "id": "WITHDRAWAL-GROUP-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Four anonymous rear-view adults; two bundles; no identified king or actual escort.",
+      "path": null
+    },
+    {
+      "id": "DISTANT-COLUMN-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Eight small anonymous silhouettes; representational sample, not army size.",
+      "path": null
+    },
+    {
+      "id": "COURT-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
+      "path": null
+    },
+    {
+      "id": "GARHGAON-APPROACH-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L02 shallow settlement edge: earthen route Y=10, three timber roof silhouettes, foreground trunk left, overcast west light. Exclude later brick palace.",
+      "path": null
+    },
+    {
+      "id": "WITHDRAWAL-PATH-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L03 unnamed path bending near-left to far-right, forked trunk left; overcast west light.",
+      "path": null
+    },
+    {
+      "id": "COMMAND-SHELTER-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
+      "path": null
+    },
+    {
+      "id": "RIVER-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+      "path": null
+    },
+    {
+      "id": "SEAT-SYMBOL-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
+      "path": null
+    },
+    {
+      "id": "TABLE-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
+      "path": null
+    },
+    {
+      "id": "BEAM-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
+      "path": null
+    },
+    {
+      "id": "BUNDLES-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Two tied cloth bundles smaller than an adult torso.",
+      "path": null
+    },
+    {
+      "id": "MAP-BASE-E01-PROPOSED-v01",
+      "role": "checked geographic base",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Region locator with geographic orientation checked; not a 1662 political boundary. Optional map can be replaced by dated text locator.",
+      "path": null
+    },
+    {
+      "id": "VO-E01-PROPOSED-v01",
+      "role": "audio",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Complete 105-word script reading; no approved voice take; Assamese names not audio-verified.",
+      "path": null
+    },
+    {
+      "id": "SFX-E01-PROPOSED-v01",
+      "role": "audio",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Rights-cleared cloth, wood, footsteps, paper and river sounds; no selected recordings.",
+      "path": null
+    },
+    {
+      "id": "MUSIC-E01-PROPOSED-v01",
+      "role": "audio",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Rights-cleared restrained scoring; no selected recording.",
+      "path": null
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "E01-S01",
+      "scene_id": "E01-S01",
+      "start_seconds": 0,
+      "end_seconds": 4,
+      "edit_duration_seconds": 4,
+      "title": "Empty seat",
+      "narration": "Raja banne ka mauka mile, toh kaun mana karega?",
+      "claim_ids": [
+        "C07"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "COURT-PROPOSED-v02",
+        "SEAT-SYMBOL-v01"
+      ],
+      "camera_setup": "Medium-wide insert; 50 mm equivalent look, Z=1.2 m; south centreline (4,1.5) towards seat (4,8). Straight dolly 0.25 m over 4 s; same orientation; end remains medium-wide.",
+      "start_pose": "One empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.",
+      "portrait_composition": "9:16: seat in central half, upper-middle, foreground floor creates depth; quiet lower area for captions.",
+      "landscape_composition": "16:9: seat in left third, quiet negative space to right, retain the same south viewpoint and west-side light.",
+      "animation_action": "The only primary movement is a 0.25 m straight forward camera dolly over the intended 4 s edit. Seat, posts and lighting stay fixed. End with the seat empty at almost its original scale.",
+      "sound_direction": "Low hall air and a soft wooden resonance. Restrained tonal bed; narration foremost. No crown-impact effect.",
+      "continuity_notes": "Symbolic flash-forward; no literal crown handover. Seat will remain empty in S02. Source teaser label added in edit.",
+      "entry_state": "Empty seat, stable west light.",
+      "exit_state": "Seat still empty; match room tone into S02.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.\n\nOne empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.\n\n9:16: seat in central half, upper-middle, foreground floor creates depth; quiet lower area for captions.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.\n\nOne empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.\n\n16:9: seat in left third, quiet negative space to right, retain the same south viewpoint and west-side light.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary movement is a 0.25 m straight forward camera dolly over the intended 4 s edit. Seat, posts and lighting stay fixed. End with the seat empty at almost its original scale.",
+      "frame_ids": {
+        "9x16": "E01-S01-F01-9x16-PROPOSED",
+        "16x9": "E01-S01-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "COURT-PROPOSED-v02",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
+          "path": null
+        },
+        {
+          "id": "SEAT-SYMBOL-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S02",
+      "scene_id": "E01-S02",
+      "start_seconds": 4,
+      "end_seconds": 11,
+      "edit_duration_seconds": 7,
+      "title": "Atan turns away",
+      "narration": "Itihaskar Bhuyan likhte hain—Atan Burhagohain ne do baar taaj thukraya.",
+      "claim_ids": [
+        "C07"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "ATAN-PROPOSED-v02",
+        "ATAN-COURT-PROPOSED-v02",
+        "COURT-PROPOSED-v02",
+        "SEAT-SYMBOL-v01"
+      ],
+      "camera_setup": "Locked medium three-quarter view; 65 mm equivalent look, eye level ~1.55 m, camera near (5.2,3.5), ~3 m from Atan (5.2,6.5). Actor supplies the movement.",
+      "start_pose": "Atan alone in the symbolic L01 hall, waist-up, hands lowered, mouth resting, initial gaze just camera-left. The empty seat is small in the background. Warm west-side light. No crown or offering party is staged.",
+      "portrait_composition": "9:16: face upper-middle, shoulders legible, leave room to turn screen-right; keep rear posts clear of the face.",
+      "landscape_composition": "16:9: Atan right third, small empty seat left third, preserve spatial separation and the same camera side.",
+      "animation_action": "Camera locked for the 7 s cut. Atan makes one modest head-and-shoulder turn towards screen-right, then settles. Hands remain down and mouth at rest. Preserve the same face, forehead marks, hair knot and cloth drape.",
+      "sound_direction": "Soft cloth shift over the S01 hall air. Pause around “do baar”. Add “S. K. Bhuyan • 1947 • p. 88” in editing.",
+      "continuity_notes": "Exact pose and room are reconstruction. Attribution remains in voice and source overlay. Anatomical left forehead and right-waist knot never swap sides.",
+      "entry_state": "Three-quarter head angle, gaze slightly left.",
+      "exit_state": "Head settles towards screen-right; cut to explicit 1662 flashback.",
+      "production_method": "image_to_video",
+      "identity_block": "One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.",
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: eye-level medium three-quarter shot, south of Atan, about three metres away; 65 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium three-quarter shot, south of Atan, about three metres away; 65 mm equivalent perspective.\n\nAtan alone in the symbolic L01 hall, waist-up, hands lowered, mouth resting, initial gaze just camera-left. The empty seat is small in the background. Warm west-side light. No crown or offering party is staged.\n\n9:16: face upper-middle, shoulders legible, leave room to turn screen-right; keep rear posts clear of the face.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium three-quarter shot, south of Atan, about three metres away; 65 mm equivalent perspective.\n\nAtan alone in the symbolic L01 hall, waist-up, hands lowered, mouth resting, initial gaze just camera-left. The empty seat is small in the background. Warm west-side light. No crown or offering party is staged.\n\n16:9: Atan right third, small empty seat left third, preserve spatial separation and the same camera side.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for the 7 s cut. Atan makes one modest head-and-shoulder turn towards screen-right, then settles. Hands remain down and mouth at rest. Preserve the same face, forehead marks, hair knot and cloth drape.",
+      "frame_ids": {
+        "9x16": "E01-S02-F01-9x16-PROPOSED",
+        "16x9": "E01-S02-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "ATAN-PROPOSED-v02",
+          "role": "identity",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+          "path": null
+        },
+        {
+          "id": "ATAN-COURT-PROPOSED-v02",
+          "role": "costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge.",
+          "path": null
+        },
+        {
+          "id": "COURT-PROPOSED-v02",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
+          "path": null
+        },
+        {
+          "id": "SEAT-SYMBOL-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S03",
+      "scene_id": "E01-S03",
+      "start_seconds": 11,
+      "end_seconds": 15,
+      "edit_duration_seconds": 4,
+      "title": "Dated locator graphic",
+      "narration": "Lekin pehle chalte hain... 1662 ke Assam mein.",
+      "claim_ids": [
+        "C01",
+        "C02"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "MAP-BASE-E01-PROPOSED-v01"
+      ],
+      "camera_setup": "Flat editor-built graphic. Hold 0.5 s; one smooth scale change over 2.5 s; hold 1 s. No generated geographical camera flight.",
+      "start_pose": "Blank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.",
+      "portrait_composition": "9:16: regional locator above centre and editor-added “1662 • Assam” beneath; use a checked geographic base, not a supposed historical state border.",
+      "landscape_composition": "16:9: locator left, date and region text right; author a separate layout.",
+      "animation_action": "EDITOR INSTRUCTION, not a video-model prompt: hold the verified broad regional locator for 0.5 s, scale towards Assam over 2.5 s, hold for 1 s. Geometry and labels remain rigidly attached. If the base is unavailable, use only “Assam • 1662” on the paper plate with a gentle text reveal.",
+      "sound_direction": "One short dry paper brush under voice. No time-travel effect. All text composited in edit.",
+      "continuity_notes": "No AI-drawn geography or invented 1662 boundary. Optional paper image can be made entirely in editing. No geographic image-generation submission is planned.",
+      "entry_state": "Broad checked locator, or dated text-only fallback.",
+      "exit_state": "Assam regional locator/date clearly legible; hard cut to S04.",
+      "production_method": "editor_graphic",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.\n\nBlank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.\n\n9:16: regional locator above centre and editor-added “1662 • Assam” beneath; use a checked geographic base, not a supposed historical state border.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.\n\nBlank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.\n\n16:9: locator left, date and region text right; author a separate layout.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "EDITOR INSTRUCTION, not a video-model prompt: hold the verified broad regional locator for 0.5 s, scale towards Assam over 2.5 s, hold for 1 s. Geometry and labels remain rigidly attached. If the base is unavailable, use only “Assam • 1662” on the paper plate with a gentle text reveal.",
+      "frame_ids": {
+        "9x16": "E01-S03-F01-9x16-PROPOSED",
+        "16x9": "E01-S03-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "MAP-BASE-E01-PROPOSED-v01",
+          "role": "checked geographic base",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Region locator with geographic orientation checked; not a 1662 political boundary. Optional map can be replaced by dated text locator.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S04",
+      "scene_id": "E01-S04",
+      "start_seconds": 15,
+      "end_seconds": 22,
+      "edit_duration_seconds": 7,
+      "title": "Distant occupation column",
+      "narration": "Mughal senapati Mir Jumla ne rajdhani Garhgaon par kabza kar liya.",
+      "claim_ids": [
+        "C02",
+        "C13"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "GARHGAON-APPROACH-PROPOSED-v01",
+        "DISTANT-COLUMN-PROPOSED-v01"
+      ],
+      "camera_setup": "Locked wide, 35 mm equivalent look, Z=1.5 m, camera south (10,0) facing route Y=10. Movement entirely within the distant group.",
+      "start_pose": "Eight small anonymous military silhouettes spaced along an earthen route at a shallow settlement edge; three indistinct timber roof shapes beyond, one foreground trunk left. Plain muted tunic and headwrap shapes; exact equipment indistinct. Overcast west light, atmosphere only behind the route. The eight figures are a sample, not an army-size claim.",
+      "portrait_composition": "9:16: stagger silhouettes into receding depth while keeping a clear left-to-right route and readable small figures.",
+      "landscape_composition": "16:9: route spans middle third, same eight silhouettes across its width, same trunk and roofs.",
+      "animation_action": "Camera locked for 7 s. The small distant silhouettes walk steadily left-to-right at an ordinary pace, preserving their spacing. Keep detail low at this distance so this remains one coherent group motion; buildings and foreground remain fixed.",
+      "sound_direction": "Distant soil footfalls and cloth; low restrained tension under narration. Add “Garhgaon • 1662” in editing. No battle voices.",
+      "continuity_notes": "Timber setting, no later brick palace or invented destruction. Keep figures distant; do not add close facial action, weapon attacks or horses.",
+      "entry_state": "Column already present on the route, bodies separated.",
+      "exit_state": "Column continues screen-right; unrelated withdrawal image follows, not a continuous chase.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: eye-level locked wide from south of the route, about ten metres away; 35 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level locked wide from south of the route, about ten metres away; 35 mm equivalent perspective.\n\nEight small anonymous military silhouettes spaced along an earthen route at a shallow settlement edge; three indistinct timber roof shapes beyond, one foreground trunk left. Plain muted tunic and headwrap shapes; exact equipment indistinct. Overcast west light, atmosphere only behind the route. The eight figures are a sample, not an army-size claim.\n\n9:16: stagger silhouettes into receding depth while keeping a clear left-to-right route and readable small figures.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level locked wide from south of the route, about ten metres away; 35 mm equivalent perspective.\n\nEight small anonymous military silhouettes spaced along an earthen route at a shallow settlement edge; three indistinct timber roof shapes beyond, one foreground trunk left. Plain muted tunic and headwrap shapes; exact equipment indistinct. Overcast west light, atmosphere only behind the route. The eight figures are a sample, not an army-size claim.\n\n16:9: route spans middle third, same eight silhouettes across its width, same trunk and roofs.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for 7 s. The small distant silhouettes walk steadily left-to-right at an ordinary pace, preserving their spacing. Keep detail low at this distance so this remains one coherent group motion; buildings and foreground remain fixed.",
+      "frame_ids": {
+        "9x16": "E01-S04-F01-9x16-PROPOSED",
+        "16x9": "E01-S04-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "GARHGAON-APPROACH-PROPOSED-v01",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L02 shallow settlement edge: earthen route Y=10, three timber roof silhouettes, foreground trunk left, overcast west light. Exclude later brick palace.",
+          "path": null
+        },
+        {
+          "id": "DISTANT-COLUMN-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Eight small anonymous silhouettes; representational sample, not army size.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S05",
+      "scene_id": "E01-S05",
+      "start_seconds": 22,
+      "end_seconds": 26,
+      "edit_duration_seconds": 4,
+      "title": "Withdrawal represented",
+      "narration": "Raja ko rajdhani chhodkar hatna pada.",
+      "claim_ids": [
+        "C02"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "WITHDRAWAL-PATH-PROPOSED-v01",
+        "WITHDRAWAL-GROUP-PROPOSED-v01",
+        "BUNDLES-PROPOSED-v01"
+      ],
+      "camera_setup": "Locked rear medium-wide, 50 mm equivalent look, Z=1.4 m, camera near (2,0), nearest person ~4 m away; look along the receding path.",
+      "start_pose": "Four anonymous adults seen from behind on an unnamed rural path, clearly separated; two carry small tied cloth bundles and two have free hands. Plain subdued wrapped garments. Forked trunk left, route bends towards upper-right, soft overcast west light. None is an identified depiction of the king or his actual escort.",
+      "portrait_composition": "9:16: all four complete silhouettes staggered into depth; keep the path ahead visible.",
+      "landscape_composition": "16:9: group left-centre with open receding ground right; maintain rear view and route bend.",
+      "animation_action": "Locked camera for 4 s. Four figures take two ordinary steps away from the camera, retaining spacing. Bundles stay attached and fixed in size. No turning or new gesture; end still receding.",
+      "sound_direction": "Cloth and bundle rustles, light soil footfalls. No invented royal orders or distressed crowd voices.",
+      "continuity_notes": "Withdrawal route, people and weather are reconstruction. Avoid regal props that would imply an authenticated escort. This is a separate montage location.",
+      "entry_state": "Four distinct backs, two secured bundles.",
+      "exit_state": "All four still receding; cut on narration naming Atan.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: rear medium-wide, 1.4 metre height, looking along the path at a nearest figure about four metres away; 50 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: rear medium-wide, 1.4 metre height, looking along the path at a nearest figure about four metres away; 50 mm equivalent perspective.\n\nFour anonymous adults seen from behind on an unnamed rural path, clearly separated; two carry small tied cloth bundles and two have free hands. Plain subdued wrapped garments. Forked trunk left, route bends towards upper-right, soft overcast west light. None is an identified depiction of the king or his actual escort.\n\n9:16: all four complete silhouettes staggered into depth; keep the path ahead visible.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: rear medium-wide, 1.4 metre height, looking along the path at a nearest figure about four metres away; 50 mm equivalent perspective.\n\nFour anonymous adults seen from behind on an unnamed rural path, clearly separated; two carry small tied cloth bundles and two have free hands. Plain subdued wrapped garments. Forked trunk left, route bends towards upper-right, soft overcast west light. None is an identified depiction of the king or his actual escort.\n\n16:9: group left-centre with open receding ground right; maintain rear view and route bend.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 4 s. Four figures take two ordinary steps away from the camera, retaining spacing. Bundles stay attached and fixed in size. No turning or new gesture; end still receding.",
+      "frame_ids": {
+        "9x16": "E01-S05-F01-9x16-PROPOSED",
+        "16x9": "E01-S05-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "WITHDRAWAL-PATH-PROPOSED-v01",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L03 unnamed path bending near-left to far-right, forked trunk left; overcast west light.",
+          "path": null
+        },
+        {
+          "id": "WITHDRAWAL-GROUP-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Four anonymous rear-view adults; two bundles; no identified king or actual escort.",
+          "path": null
+        },
+        {
+          "id": "BUNDLES-PROPOSED-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Two tied cloth bundles smaller than an adult torso.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S06",
+      "scene_id": "E01-S06",
+      "start_seconds": 26,
+      "end_seconds": 33,
+      "edit_duration_seconds": 7,
+      "title": "Minister listening",
+      "narration": "Atan January mein hi Burhagohain bane the—Ahom rajya ke ek pramukh mantri.",
+      "claim_ids": [
+        "C01"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "ATAN-PROPOSED-v02",
+        "ATAN-FIELD-PROPOSED-v02",
+        "COMMAND-SHELTER-PROPOSED-v01",
+        "TABLE-PROPOSED-v01"
+      ],
+      "camera_setup": "Medium close-up, 65 mm equivalent look, Z=1.55 m, south camera (4.2,0.8) facing Atan (4.2,3.8), ~3 m distance. Straight 0.15 m dolly towards him over 7 s. End remains MCU.",
+      "start_pose": "Atan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.",
+      "portrait_composition": "9:16: face around upper-middle, head centre ~38 percent frame height, generous room for captions below; hands outside the crop.",
+      "landscape_composition": "16:9: Atan right third, looking room left; retain the doorway, west opening and table relationship.",
+      "animation_action": "Over the intended 7 s cut, camera moves straight forward by only 0.15 m. Atan listens quietly with natural breathing; one natural blink is optional, not a second staged beat. Keep the head angle settled, mouth at rest, face and cloth unchanged. No nod-and-turn combination.",
+      "sound_direction": "Quiet shelter air and a soft timber creak. No messenger speech. Add “January 1662 mein niyukti” as retrospective editor text.",
+      "continuity_notes": "Same field face, hair, knot and hem-dust state used in S07 and S09. The appointment precedes occupation; listening image is reconstruction. Keep messenger offscreen.",
+      "entry_state": "Atan already still, looking screen-left.",
+      "exit_state": "Atan still listening; preserve room tone into S07-A.",
+      "production_method": "image_to_video",
+      "identity_block": "One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.",
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.\n\nAtan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.\n\n9:16: face around upper-middle, head centre ~38 percent frame height, generous room for captions below; hands outside the crop.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.\n\nAtan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.\n\n16:9: Atan right third, looking room left; retain the doorway, west opening and table relationship.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Over the intended 7 s cut, camera moves straight forward by only 0.15 m. Atan listens quietly with natural breathing; one natural blink is optional, not a second staged beat. Keep the head angle settled, mouth at rest, face and cloth unchanged. No nod-and-turn combination.",
+      "frame_ids": {
+        "9x16": "E01-S06-F01-9x16-PROPOSED",
+        "16x9": "E01-S06-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "ATAN-PROPOSED-v02",
+          "role": "identity",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+          "path": null
+        },
+        {
+          "id": "ATAN-FIELD-PROPOSED-v02",
+          "role": "costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Same garments, dust only along lower hem. Face reference separate.",
+          "path": null
+        },
+        {
+          "id": "COMMAND-SHELTER-PROPOSED-v01",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
+          "path": null
+        },
+        {
+          "id": "TABLE-PROPOSED-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S07-A",
+      "scene_id": "E01-S07",
+      "start_seconds": 33,
+      "end_seconds": 36,
+      "edit_duration_seconds": 3,
+      "title": "One leadership gesture",
+      "narration": "Unhone Mughal sena ke khilaaf",
+      "claim_ids": [
+        "C03"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "ATAN-PROPOSED-v02",
+        "ATAN-FIELD-PROPOSED-v02",
+        "COMMAND-SHELTER-PROPOSED-v01",
+        "TABLE-PROPOSED-v01"
+      ],
+      "camera_setup": "Locked medium shot, 50 mm equivalent look, Z=1.55 m, south-east side near (6.8,1.0); Atan at (4.2,3.8). Crop officers offscreen-left; keep original interaction-axis side.",
+      "start_pose": "Atan at the right side of the plain shelter work table, right hand lowered and visible before the gesture, left hand resting separately. West diffuse light, same post and table. Officers remain outside this tighter frame. He is preparing an open-hand indication towards screen-right.",
+      "portrait_composition": "9:16: lead right of centre, right forearm entirely visible with room for a small gesture; avoid hand cropping.",
+      "landscape_composition": "16:9: lead right third, gesture room to right and restrained table context to left; officers remain offscreen.",
+      "animation_action": "Locked camera for 3 s. Atan raises his right forearm in one modest open-handed indication towards screen-right and settles into that position. Left hand stays still, mouth rests. End with the pointing arm held; do not also lower it, turn or speak.",
+      "sound_direction": "One subtle cloth shift under continuous narration and shelter air. No command speech or sword draw.",
+      "continuity_notes": "Illustrative, not a documented tactical instruction. Next shot is an officers cutaway; Atan remains in his held end pose offscreen. Right-waist knot and anatomical marks unchanged.",
+      "entry_state": "Right hand down, left hand separate.",
+      "exit_state": "Right forearm held in a small screen-right indication; match time into S07-B.",
+      "production_method": "image_to_video",
+      "identity_block": "One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.",
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: eye-level medium shot from the south-east side of the interaction axis, keeping Atan screen-right and the officers outside screen-left; 50 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium shot from the south-east side of the interaction axis, keeping Atan screen-right and the officers outside screen-left; 50 mm equivalent perspective.\n\nAtan at the right side of the plain shelter work table, right hand lowered and visible before the gesture, left hand resting separately. West diffuse light, same post and table. Officers remain outside this tighter frame. He is preparing an open-hand indication towards screen-right.\n\n9:16: lead right of centre, right forearm entirely visible with room for a small gesture; avoid hand cropping.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium shot from the south-east side of the interaction axis, keeping Atan screen-right and the officers outside screen-left; 50 mm equivalent perspective.\n\nAtan at the right side of the plain shelter work table, right hand lowered and visible before the gesture, left hand resting separately. West diffuse light, same post and table. Officers remain outside this tighter frame. He is preparing an open-hand indication towards screen-right.\n\n16:9: lead right third, gesture room to right and restrained table context to left; officers remain offscreen.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 3 s. Atan raises his right forearm in one modest open-handed indication towards screen-right and settles into that position. Left hand stays still, mouth rests. End with the pointing arm held; do not also lower it, turn or speak.",
+      "frame_ids": {
+        "9x16": "E01-S07-A-F01-9x16-PROPOSED",
+        "16x9": "E01-S07-A-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "ATAN-PROPOSED-v02",
+          "role": "identity",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+          "path": null
+        },
+        {
+          "id": "ATAN-FIELD-PROPOSED-v02",
+          "role": "costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Same garments, dust only along lower hem. Face reference separate.",
+          "path": null
+        },
+        {
+          "id": "COMMAND-SHELTER-PROPOSED-v01",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
+          "path": null
+        },
+        {
+          "id": "TABLE-PROPOSED-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S07-B",
+      "scene_id": "E01-S07",
+      "start_seconds": 36,
+      "end_seconds": 39,
+      "edit_duration_seconds": 3,
+      "title": "Officers listen",
+      "narration": "lad rahe logon ko ekjut kiya.",
+      "claim_ids": [
+        "C03"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "OFFICER-A-PROPOSED-v01",
+        "OFFICER-B-PROPOSED-v01",
+        "COMMAND-SHELTER-PROPOSED-v01",
+        "TABLE-PROPOSED-v01"
+      ],
+      "camera_setup": "Locked medium two-shot, 50 mm equivalent look, Z=1.55 m; south camera near (4.8,0.8) looking towards A (2.4,2.6), B (2.4,4.0). Stay south of the interaction axis. Atan stays offscreen-right.",
+      "start_pose": "Two distinct anonymous officers listen towards offscreen-right in the fixed command shelter: compact short-haired A in olive upper cloth and cream lower wrap, lean tied-haired B with narrower face in earth-red upper cloth and dark-cream lower wrap. A foreground-left, B rear-left with clear body separation, hands resting. Same west-side light and plain table edge. Atan is outside the frame, not duplicated as an officer.",
+      "portrait_composition": "9:16: stagger A low-left and B upper-left into depth; keep both faces and the offscreen-right eyeline clear.",
+      "landscape_composition": "16:9: A left third and B centre-left, shared looking room right; retain depth order and the same camera side.",
+      "animation_action": "Locked 3 s reaction shot. Both officers remain attentive with natural breathing only, eyes towards offscreen-right. Keep their mouths resting and hands still. No answering gesture or shared turn. Cut while the listening holds.",
+      "sound_direction": "Continue the SAME narration sentence from S07-A without a new pickup or pause. Same room tone and quiet score. No spoken response.",
+      "continuity_notes": "A and B must retain distinct faces/clothes. Atan remains offscreen-right in the preceding held gesture. Use the accepted S07-A frame later as optional layout/lighting continuity reference, not as a promise of exact temporal continuation.",
+      "entry_state": "Officers already looking offscreen-right.",
+      "exit_state": "Listening holds; hard montage cut into explicitly later 1663 recovery.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: eye-level medium two-shot from south of both officers, preserving the same side of the interaction axis and their eyelines offscreen-right; 50 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level medium two-shot from south of both officers, preserving the same side of the interaction axis and their eyelines offscreen-right; 50 mm equivalent perspective.\n\nTwo distinct anonymous officers listen towards offscreen-right in the fixed command shelter: compact short-haired A in olive upper cloth and cream lower wrap, lean tied-haired B with narrower face in earth-red upper cloth and dark-cream lower wrap. A foreground-left, B rear-left with clear body separation, hands resting. Same west-side light and plain table edge. Atan is outside the frame, not duplicated as an officer.\n\n9:16: stagger A low-left and B upper-left into depth; keep both faces and the offscreen-right eyeline clear.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level medium two-shot from south of both officers, preserving the same side of the interaction axis and their eyelines offscreen-right; 50 mm equivalent perspective.\n\nTwo distinct anonymous officers listen towards offscreen-right in the fixed command shelter: compact short-haired A in olive upper cloth and cream lower wrap, lean tied-haired B with narrower face in earth-red upper cloth and dark-cream lower wrap. A foreground-left, B rear-left with clear body separation, hands resting. Same west-side light and plain table edge. Atan is outside the frame, not duplicated as an officer.\n\n16:9: A left third and B centre-left, shared looking room right; retain depth order and the same camera side.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked 3 s reaction shot. Both officers remain attentive with natural breathing only, eyes towards offscreen-right. Keep their mouths resting and hands still. No answering gesture or shared turn. Cut while the listening holds.",
+      "frame_ids": {
+        "9x16": "E01-S07-B-F01-9x16-PROPOSED",
+        "16x9": "E01-S07-B-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "OFFICER-A-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Compact adult, short dark hair, olive upper cloth, cream lower wrap.",
+          "path": null
+        },
+        {
+          "id": "OFFICER-B-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Lean adult, tied-back dark hair, narrower distinct face, earth-red upper cloth, dark-cream lower wrap.",
+          "path": null
+        },
+        {
+          "id": "COMMAND-SHELTER-PROPOSED-v01",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
+          "path": null
+        },
+        {
+          "id": "TABLE-PROPOSED-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": "MISSING: accepted E01-S07-A frame for lighting/layout checks; not direct frame-accurate continuation."
+    },
+    {
+      "shot_id": "E01-S08-A",
+      "scene_id": "E01-S08",
+      "start_seconds": 39,
+      "end_seconds": 41.5,
+      "edit_duration_seconds": 2.5,
+      "title": "Supported beam setup",
+      "narration": "1663 mein sandhi hui.",
+      "claim_ids": [
+        "C12",
+        "C03"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "WORKERS-A-PROPOSED-v01",
+        "WORKERS-B-PROPOSED-v01",
+        "WORKERS-C-PROPOSED-v01",
+        "RIVER-PROPOSED-v02",
+        "BEAM-PROPOSED-v01"
+      ],
+      "camera_setup": "Locked wide, 35 mm equivalent look, Z=1.5 m, south-bank camera near (5,0.8), looking north. Beam axis east-west, held horizontally at waist level.",
+      "start_pose": "At an unnamed riverbank worksite, two distinct adult workers A and B already support opposite ends of ONE rigid two-metre timber beam at waist level. Hands visibly contact its underside. A wears plain cream, B olive cloth; C in brown stands clear near (7.8,6). Dry bank Y<8; river beyond, timber stack left-middle, shelter left, one tree right. East early light. Atan absent.",
+      "portrait_composition": "9:16: stage depth and camera distance so the entire beam and both supporting bodies fit, clear of subtitle area.",
+      "landscape_composition": "16:9: full beam across central strip with both carriers and the observer separated; all feet on dry ground.",
+      "animation_action": "Camera locked for a 2.5 s editorial selection. Both carriers hold the beam already supported at waist height; bodies show natural weight and minimal breathing. The observer stands clear. Keep the beam rigid and all contact points unchanged. No lifting or walking in this setup.",
+      "sound_direction": "Soft wood tension and river air. Add “1663 • Sandhi ke baad” in editing and carry the label into S08-B long enough to read. Sober music; no victory fanfare.",
+      "continuity_notes": "This is illustrative preparation/recovery work, not an identified project or treaty ceremony. Changes from S07 are an explicit time/location cut; eastern light replaces shelter west light.",
+      "entry_state": "Beam already held; three bodies separate.",
+      "exit_state": "Beam still horizontal, carriers stationary; hand position/grain must match S08-B.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: eye-level wide from the south bank looking north, 35 mm equivalent perspective; horizontal beam and all three people readable.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level wide from the south bank looking north, 35 mm equivalent perspective; horizontal beam and all three people readable.\n\nAt an unnamed riverbank worksite, two distinct adult workers A and B already support opposite ends of ONE rigid two-metre timber beam at waist level. Hands visibly contact its underside. A wears plain cream, B olive cloth; C in brown stands clear near (7.8,6). Dry bank Y<8; river beyond, timber stack left-middle, shelter left, one tree right. East early light. Atan absent.\n\n9:16: stage depth and camera distance so the entire beam and both supporting bodies fit, clear of subtitle area.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level wide from the south bank looking north, 35 mm equivalent perspective; horizontal beam and all three people readable.\n\nAt an unnamed riverbank worksite, two distinct adult workers A and B already support opposite ends of ONE rigid two-metre timber beam at waist level. Hands visibly contact its underside. A wears plain cream, B olive cloth; C in brown stands clear near (7.8,6). Dry bank Y<8; river beyond, timber stack left-middle, shelter left, one tree right. East early light. Atan absent.\n\n16:9: full beam across central strip with both carriers and the observer separated; all feet on dry ground.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for a 2.5 s editorial selection. Both carriers hold the beam already supported at waist height; bodies show natural weight and minimal breathing. The observer stands clear. Keep the beam rigid and all contact points unchanged. No lifting or walking in this setup.",
+      "frame_ids": {
+        "9x16": "E01-S08-A-F01-9x16-PROPOSED",
+        "16x9": "E01-S08-A-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "WORKERS-A-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Adult carrier A, cream cloth; distinct face and body.",
+          "path": null
+        },
+        {
+          "id": "WORKERS-B-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Adult carrier B, olive cloth; distinct face and body.",
+          "path": null
+        },
+        {
+          "id": "WORKERS-C-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Adult observer C, brown cloth; stands clear.",
+          "path": null
+        },
+        {
+          "id": "RIVER-PROPOSED-v02",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+          "path": null
+        },
+        {
+          "id": "BEAM-PROPOSED-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S08-B",
+      "scene_id": "E01-S08",
+      "start_seconds": 41.5,
+      "end_seconds": 46,
+      "edit_duration_seconds": 4.5,
+      "title": "One grip adjustment",
+      "narration": "Phir rajya ko sambhalne mein bhi Atan ki aham bhoomika rahi.",
+      "claim_ids": [
+        "C03",
+        "C12"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "WORKERS-A-PROPOSED-v01",
+        "WORKERS-B-PROPOSED-v01",
+        "RIVER-PROPOSED-v02",
+        "BEAM-PROPOSED-v01"
+      ],
+      "camera_setup": "Locked close insert of carrier A hands/forearms at near beam end; 70 mm equivalent look, Z~1 m, south camera ~0.9 m from contact near local (3,5). Same side of beam as S08-A. Beam horizontal across frame.",
+      "start_pose": "Close crop of carrier A cream-clothed torso, two anatomically clear hands and forearms supporting the SAME beam from underneath. The opposite end remains supported by worker B outside the crop. Match S08-A wood grain, beam dimensions, height and cream garment. Freeze hands in the initial stable supporting position. Dry bank background, soft east light. Face and extra bodies outside frame.",
+      "portrait_composition": "9:16: both support hands fully visible around one contact area, horizontal beam extends beyond crop; allow quiet bottom band for captions.",
+      "landscape_composition": "16:9: wider horizontal beam texture with both hands centre-left; keep the same support point and beam height.",
+      "animation_action": "Locked close insert for a 4.5 s editorial selection. One visible support hand makes one small adjustment of finger contact beneath the beam, then holds. The other visible hand and offscreen carrier continue supporting the beam. Beam stays level and fixed in size; no lift, walk, large slide or object transformation. Stop on the secure contact.",
+      "sound_direction": "One tiny cloth/wood grip sound, same river ambience. Voice continues naturally from S08-A; do not force a pause at the picture cut. Keep treaty date label readable across the cut.",
+      "continuity_notes": "Start from matched S08-A pose, wood grain and lighting. The earlier 2 m walking action is intentionally replaced with supported hold plus grip insert to reduce coordinated-body physics. No new historical claim or prop is introduced.",
+      "entry_state": "Same beam supported, matching hand placement.",
+      "exit_state": "One adjusted grip now secure, beam level; montage cut to Atan at the river.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: locked close insert from south of carrier A, about 0.9 metres from the contact point at waist height, 70 mm equivalent perspective; same side of the beam as the preceding wide.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: locked close insert from south of carrier A, about 0.9 metres from the contact point at waist height, 70 mm equivalent perspective; same side of the beam as the preceding wide.\n\nClose crop of carrier A cream-clothed torso, two anatomically clear hands and forearms supporting the SAME beam from underneath. The opposite end remains supported by worker B outside the crop. Match S08-A wood grain, beam dimensions, height and cream garment. Freeze hands in the initial stable supporting position. Dry bank background, soft east light. Face and extra bodies outside frame.\n\n9:16: both support hands fully visible around one contact area, horizontal beam extends beyond crop; allow quiet bottom band for captions.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: locked close insert from south of carrier A, about 0.9 metres from the contact point at waist height, 70 mm equivalent perspective; same side of the beam as the preceding wide.\n\nClose crop of carrier A cream-clothed torso, two anatomically clear hands and forearms supporting the SAME beam from underneath. The opposite end remains supported by worker B outside the crop. Match S08-A wood grain, beam dimensions, height and cream garment. Freeze hands in the initial stable supporting position. Dry bank background, soft east light. Face and extra bodies outside frame.\n\n16:9: wider horizontal beam texture with both hands centre-left; keep the same support point and beam height.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked close insert for a 4.5 s editorial selection. One visible support hand makes one small adjustment of finger contact beneath the beam, then holds. The other visible hand and offscreen carrier continue supporting the beam. Beam stays level and fixed in size; no lift, walk, large slide or object transformation. Stop on the secure contact.",
+      "frame_ids": {
+        "9x16": "E01-S08-B-F01-9x16-PROPOSED",
+        "16x9": "E01-S08-B-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "WORKERS-A-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Adult carrier A, cream cloth; distinct face and body.",
+          "path": null
+        },
+        {
+          "id": "WORKERS-B-PROPOSED-v01",
+          "role": "supporting cast / costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Adult carrier B, olive cloth; distinct face and body.",
+          "path": null
+        },
+        {
+          "id": "RIVER-PROPOSED-v02",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+          "path": null
+        },
+        {
+          "id": "BEAM-PROPOSED-v01",
+          "role": "prop",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": "MISSING: accepted E01-S08-A frame for beam, hand contact, cream garment and lighting match."
+    },
+    {
+      "shot_id": "E01-S09",
+      "scene_id": "E01-S09",
+      "start_seconds": 46,
+      "end_seconds": 53,
+      "edit_duration_seconds": 7,
+      "title": "Riverbank look ahead",
+      "narration": "Aage woh Lachit Borphukan ke saath bhi ladenge. Lekin usse pehle...",
+      "claim_ids": [
+        "C06"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "ATAN-PROPOSED-v02",
+        "ATAN-FIELD-PROPOSED-v02",
+        "RIVER-PROPOSED-v02"
+      ],
+      "camera_setup": "Medium profile, 55 mm equivalent look, Z=1.6 m, camera east near (8,4.6) of Atan (5,5). One 0.25 m camera truck towards local north; subject distance approximately constant. Gaze north reads screen-right.",
+      "start_pose": "Atan alone on the proposed riverbank, hands at rest, gazing north across the water; profile reads screen-right from the east-side camera. Same field gati, right-waist knot, unchanged hem dust, same face/hair/forehead marks where visible. Water band behind, fixed bank landmarks, soft eastern early light. Future collaboration is spoken only; this is not an image of Saraighat.",
+      "portrait_composition": "9:16: Atan in left half with looking room screen-right, profile clear against the water band.",
+      "landscape_composition": "16:9: Atan left third, water and looking room fill right two-thirds; retain east camera and north gaze.",
+      "animation_action": "The only primary move is a 0.25 m lateral camera truck towards local north across 7 s. Atan remains standing and keeps his gaze settled north; natural breathing only. Preserve face and field costume, with gentle water ripples as secondary motion. End still in profile; no turn-and-walk action.",
+      "sound_direction": "River air rises slightly beneath restrained music. No Lachit voice, battle sounds or character speech.",
+      "continuity_notes": "Field identity/clothes match S06 and S07-A. No Lachit asset required because he is not shown. Same L05 east light; fixed far-bank silhouette. This river is not named as a documented site.",
+      "entry_state": "Atan already standing, gaze screen-right.",
+      "exit_state": "Gaze remains screen-right; S10 camera is beyond all prior human positions.",
+      "production_method": "image_to_video",
+      "identity_block": "One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.",
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.\n\nAtan alone on the proposed riverbank, hands at rest, gazing north across the water; profile reads screen-right from the east-side camera. Same field gati, right-waist knot, unchanged hem dust, same face/hair/forehead marks where visible. Water band behind, fixed bank landmarks, soft eastern early light. Future collaboration is spoken only; this is not an image of Saraighat.\n\n9:16: Atan in left half with looking room screen-right, profile clear against the water band.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.\n\nAtan alone on the proposed riverbank, hands at rest, gazing north across the water; profile reads screen-right from the east-side camera. Same field gati, right-waist knot, unchanged hem dust, same face/hair/forehead marks where visible. Water band behind, fixed bank landmarks, soft eastern early light. Future collaboration is spoken only; this is not an image of Saraighat.\n\n16:9: Atan left third, water and looking room fill right two-thirds; retain east camera and north gaze.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary move is a 0.25 m lateral camera truck towards local north across 7 s. Atan remains standing and keeps his gaze settled north; natural breathing only. Preserve face and field costume, with gentle water ripples as secondary motion. End still in profile; no turn-and-walk action.",
+      "frame_ids": {
+        "9x16": "E01-S09-F01-9x16-PROPOSED",
+        "16x9": "E01-S09-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "ATAN-PROPOSED-v02",
+          "role": "identity",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+          "path": null
+        },
+        {
+          "id": "ATAN-FIELD-PROPOSED-v02",
+          "role": "costume",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Same garments, dust only along lower hem. Face reference separate.",
+          "path": null
+        },
+        {
+          "id": "RIVER-PROPOSED-v02",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    },
+    {
+      "shot_id": "E01-S10",
+      "scene_id": "E01-S10",
+      "start_seconds": 53,
+      "end_seconds": 60,
+      "edit_duration_seconds": 7,
+      "title": "Closing recovery question",
+      "narration": "Is hamle ke baad, Assam dobara ladne layak kaise banega?",
+      "claim_ids": [
+        "C03",
+        "C12"
+      ],
+      "required_reference_ids": [
+        "STYLE-E01-v01",
+        "RIVER-PROPOSED-v02"
+      ],
+      "camera_setup": "Wide, 35 mm equivalent look; water-edge camera near (7,7.6), facing north with slight fixed downward tilt. Rise Z=1.2 to 2.7 m during first 5.5 s, then hold 1.5 s. No simultaneous pan, orbit or zoom.",
+      "start_pose": "Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.",
+      "portrait_composition": "9:16: clear horizon, calm middle-water area for closing question, sufficient lower space for a short reconstruction note.",
+      "landscape_composition": "16:9: river opens horizontally, quiet centre for question; preserve bank geometry and same early light.",
+      "animation_action": "Raise the camera vertically by 1.5 m over the first 5.5 s of the intended 7 s edit, with the north-facing angle fixed; then stop and hold for 1.5 s. Water ripples stay small and coherent, far-bank foliage almost still. End on the quiet higher wide. The final hold contains no new camera move.",
+      "sound_direction": "Question ends near 58.4 s after real audio alignment. Water continues; restrained score resolves to an open quiet note and fades within 60.0 s. Add disclosure in editing.",
+      "continuity_notes": "Same bank and east light as S08/S09. Do not add fleets, modern bridge or dramatic mountains. S10 now explicitly reserves its final 1.5 s for a still camera hold.",
+      "entry_state": "Empty bank/water, all earlier people behind camera.",
+      "exit_state": "Higher quiet wide held; episode ends at planned 60.0 s.",
+      "production_method": "image_to_video",
+      "identity_block": null,
+      "reference_status": "MISSING",
+      "status": "PROMPTS_ONLY",
+      "audio_reference_ids": [
+        "VO-E01-PROPOSED-v01",
+        "SFX-E01-PROPOSED-v01",
+        "MUSIC-E01-PROPOSED-v01"
+      ],
+      "model": null,
+      "model_schema_date": null,
+      "generation_duration_seconds": null,
+      "actual_duration_seconds": null,
+      "job_id": null,
+      "take": null,
+      "cost": null,
+      "accepted_path": null,
+      "camera_start_frame": "Starting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.",
+      "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.\n\nEmpty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.\n\n9:16: clear horizon, calm middle-water area for closing question, sufficient lower space for a short reconstruction note.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.\n\nEmpty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.\n\n16:9: river opens horizontally, quiet centre for question; preserve bank geometry and same early light.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+      "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Raise the camera vertically by 1.5 m over the first 5.5 s of the intended 7 s edit, with the north-facing angle fixed; then stop and hold for 1.5 s. Water ripples stay small and coherent, far-bank foliage almost still. End on the quiet higher wide. The final hold contains no new camera move.",
+      "frame_ids": {
+        "9x16": "E01-S10-F01-9x16-PROPOSED",
+        "16x9": "E01-S10-F01-16x9-PROPOSED"
+      },
+      "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+      "reference_bindings": [
+        {
+          "id": "STYLE-E01-v01",
+          "role": "style",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+          "path": null
+        },
+        {
+          "id": "RIVER-PROPOSED-v02",
+          "role": "location / layout",
+          "status": "MISSING",
+          "available": "Written specification only; no approved media attached",
+          "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+          "path": null
+        }
+      ],
+      "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+      "continuity_frame_dependency": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "shot_id": "E01-S06",
+  "scene_id": "E01-S06",
+  "start_seconds": 26,
+  "end_seconds": 33,
+  "edit_duration_seconds": 7,
+  "title": "Minister listening",
+  "narration": "Atan January mein hi Burhagohain bane the—Ahom rajya ke ek pramukh mantri.",
+  "claim_ids": [
+    "C01"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "ATAN-PROPOSED-v02",
+    "ATAN-FIELD-PROPOSED-v02",
+    "COMMAND-SHELTER-PROPOSED-v01",
+    "TABLE-PROPOSED-v01"
+  ],
+  "camera_setup": "Medium close-up, 65 mm equivalent look, Z=1.55 m, south camera (4.2,0.8) facing Atan (4.2,3.8), ~3 m distance. Straight 0.15 m dolly towards him over 7 s. End remains MCU.",
+  "start_pose": "Atan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.",
+  "portrait_composition": "9:16: face around upper-middle, head centre ~38 percent frame height, generous room for captions below; hands outside the crop.",
+  "landscape_composition": "16:9: Atan right third, looking room left; retain the doorway, west opening and table relationship.",
+  "animation_action": "Over the intended 7 s cut, camera moves straight forward by only 0.15 m. Atan listens quietly with natural breathing; one natural blink is optional, not a second staged beat. Keep the head angle settled, mouth at rest, face and cloth unchanged. No nod-and-turn combination.",
+  "sound_direction": "Quiet shelter air and a soft timber creak. No messenger speech. Add “January 1662 mein niyukti” as retrospective editor text.",
+  "continuity_notes": "Same field face, hair, knot and hem-dust state used in S07 and S09. The appointment precedes occupation; listening image is reconstruction. Keep messenger offscreen.",
+  "entry_state": "Atan already still, looking screen-left.",
+  "exit_state": "Atan still listening; preserve room tone into S07-A.",
+  "production_method": "image_to_video",
+  "identity_block": "One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.",
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.\n\nAtan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.\n\n9:16: face around upper-middle, head centre ~38 percent frame height, generous room for captions below; hands outside the crop.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.\n\nAtan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.\n\n16:9: Atan right third, looking room left; retain the doorway, west opening and table relationship.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Over the intended 7 s cut, camera moves straight forward by only 0.15 m. Atan listens quietly with natural breathing; one natural blink is optional, not a second staged beat. Keep the head angle settled, mouth at rest, face and cloth unchanged. No nod-and-turn combination.",
+  "frame_ids": {
+    "9x16": "E01-S06-F01-9x16-PROPOSED",
+    "16x9": "E01-S06-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "ATAN-PROPOSED-v02",
+      "role": "identity",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+      "path": null
+    },
+    {
+      "id": "ATAN-FIELD-PROPOSED-v02",
+      "role": "costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Same garments, dust only along lower hem. Face reference separate.",
+      "path": null
+    },
+    {
+      "id": "COMMAND-SHELTER-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
+      "path": null
+    },
+    {
+      "id": "TABLE-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

@@ -1,0 +1,11 @@
+Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+
+Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
+
+Starting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.
+
+One empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.
+
+16:9: seat in left third, quiet negative space to right, retain the same south viewpoint and west-side light.
+
+Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.

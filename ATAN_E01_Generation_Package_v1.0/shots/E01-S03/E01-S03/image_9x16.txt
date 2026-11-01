@@ -1,0 +1,11 @@
+Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+
+Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
+
+Starting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.
+
+Blank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.
+
+9:16: regional locator above centre and editor-added “1662 • Assam” beneath; use a checked geographic base, not a supposed historical state border.
+
+Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.

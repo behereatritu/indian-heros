@@ -1,0 +1,72 @@
+{
+  "shot_id": "E01-S03",
+  "scene_id": "E01-S03",
+  "start_seconds": 11,
+  "end_seconds": 15,
+  "edit_duration_seconds": 4,
+  "title": "Dated locator graphic",
+  "narration": "Lekin pehle chalte hain... 1662 ke Assam mein.",
+  "claim_ids": [
+    "C01",
+    "C02"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "MAP-BASE-E01-PROPOSED-v01"
+  ],
+  "camera_setup": "Flat editor-built graphic. Hold 0.5 s; one smooth scale change over 2.5 s; hold 1 s. No generated geographical camera flight.",
+  "start_pose": "Blank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.",
+  "portrait_composition": "9:16: regional locator above centre and editor-added “1662 • Assam” beneath; use a checked geographic base, not a supposed historical state border.",
+  "landscape_composition": "16:9: locator left, date and region text right; author a separate layout.",
+  "animation_action": "EDITOR INSTRUCTION, not a video-model prompt: hold the verified broad regional locator for 0.5 s, scale towards Assam over 2.5 s, hold for 1 s. Geometry and labels remain rigidly attached. If the base is unavailable, use only “Assam • 1662” on the paper plate with a gentle text reveal.",
+  "sound_direction": "One short dry paper brush under voice. No time-travel effect. All text composited in edit.",
+  "continuity_notes": "No AI-drawn geography or invented 1662 boundary. Optional paper image can be made entirely in editing. No geographic image-generation submission is planned.",
+  "entry_state": "Broad checked locator, or dated text-only fallback.",
+  "exit_state": "Assam regional locator/date clearly legible; hard cut to S04.",
+  "production_method": "editor_graphic",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.\n\nBlank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.\n\n9:16: regional locator above centre and editor-added “1662 • Assam” beneath; use a checked geographic base, not a supposed historical state border.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.\n\nBlank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.\n\n16:9: locator left, date and region text right; author a separate layout.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "EDITOR INSTRUCTION, not a video-model prompt: hold the verified broad regional locator for 0.5 s, scale towards Assam over 2.5 s, hold for 1 s. Geometry and labels remain rigidly attached. If the base is unavailable, use only “Assam • 1662” on the paper plate with a gentle text reveal.",
+  "frame_ids": {
+    "9x16": "E01-S03-F01-9x16-PROPOSED",
+    "16x9": "E01-S03-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "MAP-BASE-E01-PROPOSED-v01",
+      "role": "checked geographic base",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Region locator with geographic orientation checked; not a 1662 political boundary. Optional map can be replaced by dated text locator.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

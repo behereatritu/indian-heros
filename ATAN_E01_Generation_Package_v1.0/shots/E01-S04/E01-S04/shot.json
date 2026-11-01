@@ -1,0 +1,81 @@
+{
+  "shot_id": "E01-S04",
+  "scene_id": "E01-S04",
+  "start_seconds": 15,
+  "end_seconds": 22,
+  "edit_duration_seconds": 7,
+  "title": "Distant occupation column",
+  "narration": "Mughal senapati Mir Jumla ne rajdhani Garhgaon par kabza kar liya.",
+  "claim_ids": [
+    "C02",
+    "C13"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "GARHGAON-APPROACH-PROPOSED-v01",
+    "DISTANT-COLUMN-PROPOSED-v01"
+  ],
+  "camera_setup": "Locked wide, 35 mm equivalent look, Z=1.5 m, camera south (10,0) facing route Y=10. Movement entirely within the distant group.",
+  "start_pose": "Eight small anonymous military silhouettes spaced along an earthen route at a shallow settlement edge; three indistinct timber roof shapes beyond, one foreground trunk left. Plain muted tunic and headwrap shapes; exact equipment indistinct. Overcast west light, atmosphere only behind the route. The eight figures are a sample, not an army-size claim.",
+  "portrait_composition": "9:16: stagger silhouettes into receding depth while keeping a clear left-to-right route and readable small figures.",
+  "landscape_composition": "16:9: route spans middle third, same eight silhouettes across its width, same trunk and roofs.",
+  "animation_action": "Camera locked for 7 s. The small distant silhouettes walk steadily left-to-right at an ordinary pace, preserving their spacing. Keep detail low at this distance so this remains one coherent group motion; buildings and foreground remain fixed.",
+  "sound_direction": "Distant soil footfalls and cloth; low restrained tension under narration. Add “Garhgaon • 1662” in editing. No battle voices.",
+  "continuity_notes": "Timber setting, no later brick palace or invented destruction. Keep figures distant; do not add close facial action, weapon attacks or horses.",
+  "entry_state": "Column already present on the route, bodies separated.",
+  "exit_state": "Column continues screen-right; unrelated withdrawal image follows, not a continuous chase.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: eye-level locked wide from south of the route, about ten metres away; 35 mm equivalent perspective.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level locked wide from south of the route, about ten metres away; 35 mm equivalent perspective.\n\nEight small anonymous military silhouettes spaced along an earthen route at a shallow settlement edge; three indistinct timber roof shapes beyond, one foreground trunk left. Plain muted tunic and headwrap shapes; exact equipment indistinct. Overcast west light, atmosphere only behind the route. The eight figures are a sample, not an army-size claim.\n\n9:16: stagger silhouettes into receding depth while keeping a clear left-to-right route and readable small figures.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level locked wide from south of the route, about ten metres away; 35 mm equivalent perspective.\n\nEight small anonymous military silhouettes spaced along an earthen route at a shallow settlement edge; three indistinct timber roof shapes beyond, one foreground trunk left. Plain muted tunic and headwrap shapes; exact equipment indistinct. Overcast west light, atmosphere only behind the route. The eight figures are a sample, not an army-size claim.\n\n16:9: route spans middle third, same eight silhouettes across its width, same trunk and roofs.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for 7 s. The small distant silhouettes walk steadily left-to-right at an ordinary pace, preserving their spacing. Keep detail low at this distance so this remains one coherent group motion; buildings and foreground remain fixed.",
+  "frame_ids": {
+    "9x16": "E01-S04-F01-9x16-PROPOSED",
+    "16x9": "E01-S04-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "GARHGAON-APPROACH-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L02 shallow settlement edge: earthen route Y=10, three timber roof silhouettes, foreground trunk left, overcast west light. Exclude later brick palace.",
+      "path": null
+    },
+    {
+      "id": "DISTANT-COLUMN-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Eight small anonymous silhouettes; representational sample, not army size.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

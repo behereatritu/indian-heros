@@ -1,0 +1,80 @@
+{
+  "shot_id": "E01-S01",
+  "scene_id": "E01-S01",
+  "start_seconds": 0,
+  "end_seconds": 4,
+  "edit_duration_seconds": 4,
+  "title": "Empty seat",
+  "narration": "Raja banne ka mauka mile, toh kaun mana karega?",
+  "claim_ids": [
+    "C07"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "COURT-PROPOSED-v02",
+    "SEAT-SYMBOL-v01"
+  ],
+  "camera_setup": "Medium-wide insert; 50 mm equivalent look, Z=1.2 m; south centreline (4,1.5) towards seat (4,8). Straight dolly 0.25 m over 4 s; same orientation; end remains medium-wide.",
+  "start_pose": "One empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.",
+  "portrait_composition": "9:16: seat in central half, upper-middle, foreground floor creates depth; quiet lower area for captions.",
+  "landscape_composition": "16:9: seat in left third, quiet negative space to right, retain the same south viewpoint and west-side light.",
+  "animation_action": "The only primary movement is a 0.25 m straight forward camera dolly over the intended 4 s edit. Seat, posts and lighting stay fixed. End with the seat empty at almost its original scale.",
+  "sound_direction": "Low hall air and a soft wooden resonance. Restrained tonal bed; narration foremost. No crown-impact effect.",
+  "continuity_notes": "Symbolic flash-forward; no literal crown handover. Seat will remain empty in S02. Source teaser label added in edit.",
+  "entry_state": "Empty seat, stable west light.",
+  "exit_state": "Seat still empty; match room tone into S02.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.\n\nOne empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.\n\n9:16: seat in central half, upper-middle, foreground floor creates depth; quiet lower area for captions.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: medium-wide, seated-eye height, looking north from the south hall centreline towards the empty seat; 50 mm equivalent perspective.\n\nOne empty plain timber seat at the rear of a symbolic timber hall; four posts fixed, woven wall surfaces, warm diffuse light from west. Seat at centre (4,8), facing south. This is editorial symbolism, not a particular historical throne.\n\n16:9: seat in left third, quiet negative space to right, retain the same south viewpoint and west-side light.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary movement is a 0.25 m straight forward camera dolly over the intended 4 s edit. Seat, posts and lighting stay fixed. End with the seat empty at almost its original scale.",
+  "frame_ids": {
+    "9x16": "E01-S01-F01-9x16-PROPOSED",
+    "16x9": "E01-S01-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "COURT-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L01 symbolic hall, 8x10 m; seat (4,8), posts (1,3),(7,3),(1,7),(7,7), west light, south cameras.",
+      "path": null
+    },
+    {
+      "id": "SEAT-SYMBOL-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "One plain low-back timber seat, ~0.8 m wide authoring scale; symbol, not authenticated throne.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

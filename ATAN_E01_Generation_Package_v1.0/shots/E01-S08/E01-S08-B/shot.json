@@ -1,0 +1,99 @@
+{
+  "shot_id": "E01-S08-B",
+  "scene_id": "E01-S08",
+  "start_seconds": 41.5,
+  "end_seconds": 46,
+  "edit_duration_seconds": 4.5,
+  "title": "One grip adjustment",
+  "narration": "Phir rajya ko sambhalne mein bhi Atan ki aham bhoomika rahi.",
+  "claim_ids": [
+    "C03",
+    "C12"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "WORKERS-A-PROPOSED-v01",
+    "WORKERS-B-PROPOSED-v01",
+    "RIVER-PROPOSED-v02",
+    "BEAM-PROPOSED-v01"
+  ],
+  "camera_setup": "Locked close insert of carrier A hands/forearms at near beam end; 70 mm equivalent look, Z~1 m, south camera ~0.9 m from contact near local (3,5). Same side of beam as S08-A. Beam horizontal across frame.",
+  "start_pose": "Close crop of carrier A cream-clothed torso, two anatomically clear hands and forearms supporting the SAME beam from underneath. The opposite end remains supported by worker B outside the crop. Match S08-A wood grain, beam dimensions, height and cream garment. Freeze hands in the initial stable supporting position. Dry bank background, soft east light. Face and extra bodies outside frame.",
+  "portrait_composition": "9:16: both support hands fully visible around one contact area, horizontal beam extends beyond crop; allow quiet bottom band for captions.",
+  "landscape_composition": "16:9: wider horizontal beam texture with both hands centre-left; keep the same support point and beam height.",
+  "animation_action": "Locked close insert for a 4.5 s editorial selection. One visible support hand makes one small adjustment of finger contact beneath the beam, then holds. The other visible hand and offscreen carrier continue supporting the beam. Beam stays level and fixed in size; no lift, walk, large slide or object transformation. Stop on the secure contact.",
+  "sound_direction": "One tiny cloth/wood grip sound, same river ambience. Voice continues naturally from S08-A; do not force a pause at the picture cut. Keep treaty date label readable across the cut.",
+  "continuity_notes": "Start from matched S08-A pose, wood grain and lighting. The earlier 2 m walking action is intentionally replaced with supported hold plus grip insert to reduce coordinated-body physics. No new historical claim or prop is introduced.",
+  "entry_state": "Same beam supported, matching hand placement.",
+  "exit_state": "One adjusted grip now secure, beam level; montage cut to Atan at the river.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: locked close insert from south of carrier A, about 0.9 metres from the contact point at waist height, 70 mm equivalent perspective; same side of the beam as the preceding wide.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: locked close insert from south of carrier A, about 0.9 metres from the contact point at waist height, 70 mm equivalent perspective; same side of the beam as the preceding wide.\n\nClose crop of carrier A cream-clothed torso, two anatomically clear hands and forearms supporting the SAME beam from underneath. The opposite end remains supported by worker B outside the crop. Match S08-A wood grain, beam dimensions, height and cream garment. Freeze hands in the initial stable supporting position. Dry bank background, soft east light. Face and extra bodies outside frame.\n\n9:16: both support hands fully visible around one contact area, horizontal beam extends beyond crop; allow quiet bottom band for captions.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: locked close insert from south of carrier A, about 0.9 metres from the contact point at waist height, 70 mm equivalent perspective; same side of the beam as the preceding wide.\n\nClose crop of carrier A cream-clothed torso, two anatomically clear hands and forearms supporting the SAME beam from underneath. The opposite end remains supported by worker B outside the crop. Match S08-A wood grain, beam dimensions, height and cream garment. Freeze hands in the initial stable supporting position. Dry bank background, soft east light. Face and extra bodies outside frame.\n\n16:9: wider horizontal beam texture with both hands centre-left; keep the same support point and beam height.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked close insert for a 4.5 s editorial selection. One visible support hand makes one small adjustment of finger contact beneath the beam, then holds. The other visible hand and offscreen carrier continue supporting the beam. Beam stays level and fixed in size; no lift, walk, large slide or object transformation. Stop on the secure contact.",
+  "frame_ids": {
+    "9x16": "E01-S08-B-F01-9x16-PROPOSED",
+    "16x9": "E01-S08-B-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-A-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult carrier A, cream cloth; distinct face and body.",
+      "path": null
+    },
+    {
+      "id": "WORKERS-B-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Adult carrier B, olive cloth; distinct face and body.",
+      "path": null
+    },
+    {
+      "id": "RIVER-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+      "path": null
+    },
+    {
+      "id": "BEAM-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "One rigid timber beam, 2 m long, ~12 cm square, fixed grain and contact points.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": "MISSING: accepted E01-S08-A frame for beam, hand contact, cream garment and lighting match."
+}

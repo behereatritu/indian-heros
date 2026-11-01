@@ -1,0 +1,98 @@
+{
+  "shot_id": "E01-S07-B",
+  "scene_id": "E01-S07",
+  "start_seconds": 36,
+  "end_seconds": 39,
+  "edit_duration_seconds": 3,
+  "title": "Officers listen",
+  "narration": "lad rahe logon ko ekjut kiya.",
+  "claim_ids": [
+    "C03"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "OFFICER-A-PROPOSED-v01",
+    "OFFICER-B-PROPOSED-v01",
+    "COMMAND-SHELTER-PROPOSED-v01",
+    "TABLE-PROPOSED-v01"
+  ],
+  "camera_setup": "Locked medium two-shot, 50 mm equivalent look, Z=1.55 m; south camera near (4.8,0.8) looking towards A (2.4,2.6), B (2.4,4.0). Stay south of the interaction axis. Atan stays offscreen-right.",
+  "start_pose": "Two distinct anonymous officers listen towards offscreen-right in the fixed command shelter: compact short-haired A in olive upper cloth and cream lower wrap, lean tied-haired B with narrower face in earth-red upper cloth and dark-cream lower wrap. A foreground-left, B rear-left with clear body separation, hands resting. Same west-side light and plain table edge. Atan is outside the frame, not duplicated as an officer.",
+  "portrait_composition": "9:16: stagger A low-left and B upper-left into depth; keep both faces and the offscreen-right eyeline clear.",
+  "landscape_composition": "16:9: A left third and B centre-left, shared looking room right; retain depth order and the same camera side.",
+  "animation_action": "Locked 3 s reaction shot. Both officers remain attentive with natural breathing only, eyes towards offscreen-right. Keep their mouths resting and hands still. No answering gesture or shared turn. Cut while the listening holds.",
+  "sound_direction": "Continue the SAME narration sentence from S07-A without a new pickup or pause. Same room tone and quiet score. No spoken response.",
+  "continuity_notes": "A and B must retain distinct faces/clothes. Atan remains offscreen-right in the preceding held gesture. Use the accepted S07-A frame later as optional layout/lighting continuity reference, not as a promise of exact temporal continuation.",
+  "entry_state": "Officers already looking offscreen-right.",
+  "exit_state": "Listening holds; hard montage cut into explicitly later 1663 recovery.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: eye-level medium two-shot from south of both officers, preserving the same side of the interaction axis and their eyelines offscreen-right; 50 mm equivalent perspective.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level medium two-shot from south of both officers, preserving the same side of the interaction axis and their eyelines offscreen-right; 50 mm equivalent perspective.\n\nTwo distinct anonymous officers listen towards offscreen-right in the fixed command shelter: compact short-haired A in olive upper cloth and cream lower wrap, lean tied-haired B with narrower face in earth-red upper cloth and dark-cream lower wrap. A foreground-left, B rear-left with clear body separation, hands resting. Same west-side light and plain table edge. Atan is outside the frame, not duplicated as an officer.\n\n9:16: stagger A low-left and B upper-left into depth; keep both faces and the offscreen-right eyeline clear.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: eye-level medium two-shot from south of both officers, preserving the same side of the interaction axis and their eyelines offscreen-right; 50 mm equivalent perspective.\n\nTwo distinct anonymous officers listen towards offscreen-right in the fixed command shelter: compact short-haired A in olive upper cloth and cream lower wrap, lean tied-haired B with narrower face in earth-red upper cloth and dark-cream lower wrap. A foreground-left, B rear-left with clear body separation, hands resting. Same west-side light and plain table edge. Atan is outside the frame, not duplicated as an officer.\n\n16:9: A left third and B centre-left, shared looking room right; retain depth order and the same camera side.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked 3 s reaction shot. Both officers remain attentive with natural breathing only, eyes towards offscreen-right. Keep their mouths resting and hands still. No answering gesture or shared turn. Cut while the listening holds.",
+  "frame_ids": {
+    "9x16": "E01-S07-B-F01-9x16-PROPOSED",
+    "16x9": "E01-S07-B-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "OFFICER-A-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Compact adult, short dark hair, olive upper cloth, cream lower wrap.",
+      "path": null
+    },
+    {
+      "id": "OFFICER-B-PROPOSED-v01",
+      "role": "supporting cast / costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Lean adult, tied-back dark hair, narrower distinct face, earth-red upper cloth, dark-cream lower wrap.",
+      "path": null
+    },
+    {
+      "id": "COMMAND-SHELTER-PROPOSED-v01",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L04 8x6 m shelter; posts (1,1),(7,1),(1,5),(7,5), table (4,3), open south, west light; Atan (4.2,3.8), A (2.4,2.6), B (2.4,4.0). Not an identified historical meeting room.",
+      "path": null
+    },
+    {
+      "id": "TABLE-PROPOSED-v01",
+      "role": "prop",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Plain low timber table, 1.8x0.7 m, without legible map.",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": "MISSING: accepted E01-S07-A frame for lighting/layout checks; not direct frame-accurate continuation."
+}

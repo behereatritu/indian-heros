@@ -1,0 +1,89 @@
+{
+  "shot_id": "E01-S09",
+  "scene_id": "E01-S09",
+  "start_seconds": 46,
+  "end_seconds": 53,
+  "edit_duration_seconds": 7,
+  "title": "Riverbank look ahead",
+  "narration": "Aage woh Lachit Borphukan ke saath bhi ladenge. Lekin usse pehle...",
+  "claim_ids": [
+    "C06"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "ATAN-PROPOSED-v02",
+    "ATAN-FIELD-PROPOSED-v02",
+    "RIVER-PROPOSED-v02"
+  ],
+  "camera_setup": "Medium profile, 55 mm equivalent look, Z=1.6 m, camera east near (8,4.6) of Atan (5,5). One 0.25 m camera truck towards local north; subject distance approximately constant. Gaze north reads screen-right.",
+  "start_pose": "Atan alone on the proposed riverbank, hands at rest, gazing north across the water; profile reads screen-right from the east-side camera. Same field gati, right-waist knot, unchanged hem dust, same face/hair/forehead marks where visible. Water band behind, fixed bank landmarks, soft eastern early light. Future collaboration is spoken only; this is not an image of Saraighat.",
+  "portrait_composition": "9:16: Atan in left half with looking room screen-right, profile clear against the water band.",
+  "landscape_composition": "16:9: Atan left third, water and looking room fill right two-thirds; retain east camera and north gaze.",
+  "animation_action": "The only primary move is a 0.25 m lateral camera truck towards local north across 7 s. Atan remains standing and keeps his gaze settled north; natural breathing only. Preserve face and field costume, with gentle water ripples as secondary motion. End still in profile; no turn-and-walk action.",
+  "sound_direction": "River air rises slightly beneath restrained music. No Lachit voice, battle sounds or character speech.",
+  "continuity_notes": "Field identity/clothes match S06 and S07-A. No Lachit asset required because he is not shown. Same L05 east light; fixed far-bank silhouette. This river is not named as a documented site.",
+  "entry_state": "Atan already standing, gaze screen-right.",
+  "exit_state": "Gaze remains screen-right; S10 camera is beyond all prior human positions.",
+  "production_method": "image_to_video",
+  "identity_block": "One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.",
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.\n\nAtan alone on the proposed riverbank, hands at rest, gazing north across the water; profile reads screen-right from the east-side camera. Same field gati, right-waist knot, unchanged hem dust, same face/hair/forehead marks where visible. Water band behind, fixed bank landmarks, soft eastern early light. Future collaboration is spoken only; this is not an image of Saraighat.\n\n9:16: Atan in left half with looking room screen-right, profile clear against the water band.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nOne adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.\n\nStarting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.\n\nAtan alone on the proposed riverbank, hands at rest, gazing north across the water; profile reads screen-right from the east-side camera. Same field gati, right-waist knot, unchanged hem dust, same face/hair/forehead marks where visible. Water band behind, fixed bank landmarks, soft eastern early light. Future collaboration is spoken only; this is not an image of Saraighat.\n\n16:9: Atan left third, water and looking room fill right two-thirds; retain east camera and north gaze.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary move is a 0.25 m lateral camera truck towards local north across 7 s. Atan remains standing and keeps his gaze settled north; natural breathing only. Preserve face and field costume, with gentle water ripples as secondary motion. End still in profile; no turn-and-walk action.",
+  "frame_ids": {
+    "9x16": "E01-S09-F01-9x16-PROPOSED",
+    "16x9": "E01-S09-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "ATAN-PROPOSED-v02",
+      "role": "identity",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
+      "path": null
+    },
+    {
+      "id": "ATAN-FIELD-PROPOSED-v02",
+      "role": "costume",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Same garments, dust only along lower hem. Face reference separate.",
+      "path": null
+    },
+    {
+      "id": "RIVER-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}

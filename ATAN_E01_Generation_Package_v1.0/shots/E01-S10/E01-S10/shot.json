@@ -1,0 +1,72 @@
+{
+  "shot_id": "E01-S10",
+  "scene_id": "E01-S10",
+  "start_seconds": 53,
+  "end_seconds": 60,
+  "edit_duration_seconds": 7,
+  "title": "Closing recovery question",
+  "narration": "Is hamle ke baad, Assam dobara ladne layak kaise banega?",
+  "claim_ids": [
+    "C03",
+    "C12"
+  ],
+  "required_reference_ids": [
+    "STYLE-E01-v01",
+    "RIVER-PROPOSED-v02"
+  ],
+  "camera_setup": "Wide, 35 mm equivalent look; water-edge camera near (7,7.6), facing north with slight fixed downward tilt. Rise Z=1.2 to 2.7 m during first 5.5 s, then hold 1.5 s. No simultaneous pan, orbit or zoom.",
+  "start_pose": "Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.",
+  "portrait_composition": "9:16: clear horizon, calm middle-water area for closing question, sufficient lower space for a short reconstruction note.",
+  "landscape_composition": "16:9: river opens horizontally, quiet centre for question; preserve bank geometry and same early light.",
+  "animation_action": "Raise the camera vertically by 1.5 m over the first 5.5 s of the intended 7 s edit, with the north-facing angle fixed; then stop and hold for 1.5 s. Water ripples stay small and coherent, far-bank foliage almost still. End on the quiet higher wide. The final hold contains no new camera move.",
+  "sound_direction": "Question ends near 58.4 s after real audio alignment. Water continues; restrained score resolves to an open quiet note and fades within 60.0 s. Add disclosure in editing.",
+  "continuity_notes": "Same bank and east light as S08/S09. Do not add fleets, modern bridge or dramatic mountains. S10 now explicitly reserves its final 1.5 s for a still camera hold.",
+  "entry_state": "Empty bank/water, all earlier people behind camera.",
+  "exit_state": "Higher quiet wide held; episode ends at planned 60.0 s.",
+  "production_method": "image_to_video",
+  "identity_block": null,
+  "reference_status": "MISSING",
+  "status": "PROMPTS_ONLY",
+  "audio_reference_ids": [
+    "VO-E01-PROPOSED-v01",
+    "SFX-E01-PROPOSED-v01",
+    "MUSIC-E01-PROPOSED-v01"
+  ],
+  "model": null,
+  "model_schema_date": null,
+  "generation_duration_seconds": null,
+  "actual_duration_seconds": null,
+  "job_id": null,
+  "take": null,
+  "cost": null,
+  "accepted_path": null,
+  "camera_start_frame": "Starting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.",
+  "image_prompt_9x16": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.\n\nEmpty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.\n\n9:16: clear horizon, calm middle-water area for closing question, sufficient lower space for a short reconstruction note.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "image_prompt_16x9": "Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.\n\nPalette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.\n\nStarting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.\n\nEmpty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.\n\n16:9: river opens horizontally, quiet centre for question; preserve bank geometry and same early light.\n\nSingle starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.",
+  "animation_prompt": "Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Raise the camera vertically by 1.5 m over the first 5.5 s of the intended 7 s edit, with the north-facing angle fixed; then stop and hold for 1.5 s. Water ripples stay small and coherent, far-bank foliage almost still. End on the quiet higher wide. The final hold contains no new camera move.",
+  "frame_ids": {
+    "9x16": "E01-S10-F01-9x16-PROPOSED",
+    "16x9": "E01-S10-F01-16x9-PROPOSED"
+  },
+  "animation_input_status": "MISSING: inspected and accepted starting frame required for the chosen aspect ratio",
+  "reference_bindings": [
+    {
+      "id": "STYLE-E01-v01",
+      "role": "style",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "Painterly style reference matching the source plan; text specification exists, reference image missing.",
+      "path": null
+    },
+    {
+      "id": "RIVER-PROPOSED-v02",
+      "role": "location / layout",
+      "status": "MISSING",
+      "available": "Written specification only; no approved media attached",
+      "description": "L05 unnamed Assam bank: dry Y=0..8, water Y>8, shelter (1,2), timber stack (2,4), tree (10,2), east early light; Atan later (5,5).",
+      "path": null
+    }
+  ],
+  "aspect_ratio_note": "Independently compose both ratios. The alternative composition is not a crop instruction. No provider parameters have been bound.",
+  "continuity_frame_dependency": null
+}
