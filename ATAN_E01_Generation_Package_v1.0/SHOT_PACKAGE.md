@@ -1,8 +1,12 @@
-# ATAN E01 — Shot-by-shot generation package v1.0
+# ATAN E01 — Shot-by-shot generation package v1.1
 
-**PROMPTS ONLY • 1 November 2026**
+**PROMPTS ONLY • PHOTOREALISTIC REVISION v1.1 • 1 November 2026**
 
 Based on ATAN_E01_Integrated_Production_Plan_v1.0.md. Ten original scene IDs are preserved as parent IDs. Twelve playable shots total 60 planned seconds. The narration is unchanged. S07 and S08 use child shot IDs so the parent IDs never disappear. No images, audio, video or generation jobs were created. All required media references and all starting frames are MISSING; their written specifications exist. No asset is approved.
+
+## Visual-style correction
+
+All active character, physical-set and motion prompts now use photorealistic historical cinema. The inherited SOURCE_PLAN.md is corrected too. Existing illustrated tests remain unapproved for photographic identity/style. Start with characters/README.md for the new character-reference prompts. The original folder name is retained for existing links; the current package revision is 1.1. S03 remains an editor-built graphic with optional photographed paper texture.
 
 ## What changed for simpler execution
 
@@ -40,7 +44,7 @@ All source qualifications are preserved: C07 is attributed to Bhuyan; exact like
 
 | Reference ID | Role | Missing item |
 |---|---|---|
-| STYLE-E01-v01 | style | **MISSING:** Painterly style reference matching the source plan; text specification exists, reference image missing. |
+| STYLE-E01-REAL-v01 | style | **MISSING:** Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing. |
 | ATAN-PROPOSED-v02 | identity | **MISSING:** Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed. |
 | ATAN-COURT-PROPOSED-v02 | costume | **MISSING:** Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge. |
 | ATAN-FIELD-PROPOSED-v02 | costume | **MISSING:** Same garments, dust only along lower hem. Face reference separate. |
@@ -75,7 +79,7 @@ The style and designs are specified in writing, not approved as images. All shot
 
 **Narration:** Raja banne ka mauka mile, toh kaun mana karega?
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** COURT-PROPOSED-v02, **MISSING** SEAT-SYMBOL-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** COURT-PROPOSED-v02, **MISSING** SEAT-SYMBOL-v01.
 
 **Starting frames:** **MISSING** E01-S01-F01-9x16-PROPOSED, **MISSING** E01-S01-F01-16x9-PROPOSED.
 
@@ -86,7 +90,7 @@ The style and designs are specified in writing, not approved as images. All shot
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -96,13 +100,13 @@ One empty plain timber seat at the rear of a symbolic timber hall; four posts fi
 
 9:16: seat in central half, upper-middle, foreground floor creates depth; quiet lower area for captions.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -112,13 +116,13 @@ One empty plain timber seat at the rear of a symbolic timber hall; four posts fi
 
 16:9: seat in left third, quiet negative space to right, retain the same south viewpoint and west-side light.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary movement is a 0.25 m straight forward camera dolly over the intended 4 s edit. Seat, posts and lighting stay fixed. End with the seat empty at almost its original scale.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary movement is a 0.25 m straight forward camera dolly over the intended 4 s edit. Seat, posts and lighting stay fixed. End with the seat empty at almost its original scale.
 ```
 
 **Sound:** Low hall air and a soft wooden resonance. Restrained tonal bed; narration foremost. No crown-impact effect.
@@ -135,7 +139,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Itihaskar Bhuyan likhte hain—Atan Burhagohain ne do baar taaj thukraya.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-COURT-PROPOSED-v02, **MISSING** COURT-PROPOSED-v02, **MISSING** SEAT-SYMBOL-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-COURT-PROPOSED-v02, **MISSING** COURT-PROPOSED-v02, **MISSING** SEAT-SYMBOL-v01.
 
 **Starting frames:** **MISSING** E01-S02-F01-9x16-PROPOSED, **MISSING** E01-S02-F01-16x9-PROPOSED.
 
@@ -146,11 +150,11 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.
 
 Starting-frame camera: eye-level medium three-quarter shot, south of Atan, about three metres away; 65 mm equivalent perspective.
 
@@ -158,17 +162,17 @@ Atan alone in the symbolic L01 hall, waist-up, hands lowered, mouth resting, ini
 
 9:16: face upper-middle, shoulders legible, leave room to turn screen-right; keep rear posts clear of the face.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Clean court state. Exact cut, colour, footwear and drape are proposed reconstruction.
 
 Starting-frame camera: eye-level medium three-quarter shot, south of Atan, about three metres away; 65 mm equivalent perspective.
 
@@ -176,13 +180,13 @@ Atan alone in the symbolic L01 hall, waist-up, hands lowered, mouth resting, ini
 
 16:9: Atan right third, small empty seat left third, preserve spatial separation and the same camera side.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for the 7 s cut. Atan makes one modest head-and-shoulder turn towards screen-right, then settles. Hands remain down and mouth at rest. Preserve the same face, forehead marks, hair knot and cloth drape.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for the 7 s cut. Atan makes one modest head-and-shoulder turn towards screen-right, then settles. Hands remain down and mouth at rest. Preserve the same face, forehead marks, hair knot and cloth drape.
 ```
 
 **Sound:** Soft cloth shift over the S01 hall air. Pause around “do baar”. Add “S. K. Bhuyan • 1947 • p. 88” in editing.
@@ -199,7 +203,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Lekin pehle chalte hain... 1662 ke Assam mein.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** MAP-BASE-E01-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** MAP-BASE-E01-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S03-F01-9x16-PROPOSED, **MISSING** E01-S03-F01-16x9-PROPOSED.
 
@@ -210,33 +214,33 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
 Starting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.
 
-Blank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.
+Blank warm-cream photographed paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.
 
 9:16: regional locator above centre and editor-added “1662 • Assam” beneath; use a checked geographic base, not a supposed historical state border.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
 Starting-frame camera: flat front-on graphic texture, without perspective tilt; compose for a separate editor-built locator overlay.
 
-Blank warm-cream painted paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.
+Blank warm-cream photographed paper plate with restrained blue-green and indigo accents only around its margins. Clean central region. This image prompt creates only the texture; geographic shapes and lettering are separate checked editor layers.
 
 16:9: locator left, date and region text right; author a separate layout.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt / editor instruction:
@@ -259,7 +263,7 @@ EDITOR INSTRUCTION, not a video-model prompt: hold the verified broad regional l
 
 **Narration:** Mughal senapati Mir Jumla ne rajdhani Garhgaon par kabza kar liya.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** GARHGAON-APPROACH-PROPOSED-v01, **MISSING** DISTANT-COLUMN-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** GARHGAON-APPROACH-PROPOSED-v01, **MISSING** DISTANT-COLUMN-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S04-F01-9x16-PROPOSED, **MISSING** E01-S04-F01-16x9-PROPOSED.
 
@@ -270,7 +274,7 @@ EDITOR INSTRUCTION, not a video-model prompt: hold the verified broad regional l
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -280,13 +284,13 @@ Eight small anonymous military silhouettes spaced along an earthen route at a sh
 
 9:16: stagger silhouettes into receding depth while keeping a clear left-to-right route and readable small figures.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -296,13 +300,13 @@ Eight small anonymous military silhouettes spaced along an earthen route at a sh
 
 16:9: route spans middle third, same eight silhouettes across its width, same trunk and roofs.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for 7 s. The small distant silhouettes walk steadily left-to-right at an ordinary pace, preserving their spacing. Keep detail low at this distance so this remains one coherent group motion; buildings and foreground remain fixed.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for 7 s. The small distant silhouettes walk steadily left-to-right at an ordinary pace, preserving their spacing. Keep detail low at this distance so this remains one coherent group motion; buildings and foreground remain fixed.
 ```
 
 **Sound:** Distant soil footfalls and cloth; low restrained tension under narration. Add “Garhgaon • 1662” in editing. No battle voices.
@@ -319,7 +323,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Raja ko rajdhani chhodkar hatna pada.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** WITHDRAWAL-PATH-PROPOSED-v01, **MISSING** WITHDRAWAL-GROUP-PROPOSED-v01, **MISSING** BUNDLES-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** WITHDRAWAL-PATH-PROPOSED-v01, **MISSING** WITHDRAWAL-GROUP-PROPOSED-v01, **MISSING** BUNDLES-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S05-F01-9x16-PROPOSED, **MISSING** E01-S05-F01-16x9-PROPOSED.
 
@@ -330,7 +334,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -340,13 +344,13 @@ Four anonymous adults seen from behind on an unnamed rural path, clearly separat
 
 9:16: all four complete silhouettes staggered into depth; keep the path ahead visible.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -356,13 +360,13 @@ Four anonymous adults seen from behind on an unnamed rural path, clearly separat
 
 16:9: group left-centre with open receding ground right; maintain rear view and route bend.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 4 s. Four figures take two ordinary steps away from the camera, retaining spacing. Bundles stay attached and fixed in size. No turning or new gesture; end still receding.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 4 s. Four figures take two ordinary steps away from the camera, retaining spacing. Bundles stay attached and fixed in size. No turning or new gesture; end still receding.
 ```
 
 **Sound:** Cloth and bundle rustles, light soil footfalls. No invented royal orders or distressed crowd voices.
@@ -379,7 +383,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Atan January mein hi Burhagohain bane the—Ahom rajya ke ek pramukh mantri.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-FIELD-PROPOSED-v02, **MISSING** COMMAND-SHELTER-PROPOSED-v01, **MISSING** TABLE-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-FIELD-PROPOSED-v02, **MISSING** COMMAND-SHELTER-PROPOSED-v01, **MISSING** TABLE-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S06-F01-9x16-PROPOSED, **MISSING** E01-S06-F01-16x9-PROPOSED.
 
@@ -390,43 +394,43 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
 
-Starting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.
+Starting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly focused.
 
 Atan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.
 
 9:16: face around upper-middle, head centre ~38 percent frame height, generous room for captions below; hands outside the crop.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
 
-Starting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly drawn.
+Starting-frame camera: eye-level medium close-up from south of Atan, about three metres away; 65 mm equivalent perspective; face remains clearly focused.
 
 Atan in a generic command shelter, chest to head, mouth resting, gaze slightly screen-left towards an offscreen messenger. West diffuse light, fixed rear post and small plain table edge. This illustrates an already-appointed minister; it is not his appointment ceremony or a meeting in the occupied palace.
 
 16:9: Atan right third, looking room left; retain the doorway, west opening and table relationship.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Over the intended 7 s cut, camera moves straight forward by only 0.15 m. Atan listens quietly with natural breathing; one natural blink is optional, not a second staged beat. Keep the head angle settled, mouth at rest, face and cloth unchanged. No nod-and-turn combination.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Over the intended 7 s cut, camera moves straight forward by only 0.15 m. Atan listens quietly with natural breathing; one natural blink is optional, not a second staged beat. Keep the head angle settled, mouth at rest, face and cloth unchanged. No nod-and-turn combination.
 ```
 
 **Sound:** Quiet shelter air and a soft timber creak. No messenger speech. Add “January 1662 mein niyukti” as retrospective editor text.
@@ -443,7 +447,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Unhone Mughal sena ke khilaaf
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-FIELD-PROPOSED-v02, **MISSING** COMMAND-SHELTER-PROPOSED-v01, **MISSING** TABLE-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-FIELD-PROPOSED-v02, **MISSING** COMMAND-SHELTER-PROPOSED-v01, **MISSING** TABLE-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S07-A-F01-9x16-PROPOSED, **MISSING** E01-S07-A-F01-16x9-PROPOSED.
 
@@ -454,11 +458,11 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
 
 Starting-frame camera: eye-level medium shot from the south-east side of the interaction axis, keeping Atan screen-right and the officers outside screen-left; 50 mm equivalent perspective.
 
@@ -466,17 +470,17 @@ Atan at the right side of the plain shelter work table, right hand lowered and v
 
 9:16: lead right of centre, right forearm entirely visible with room for a small gesture; avoid hand cropping.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
 
 Starting-frame camera: eye-level medium shot from the south-east side of the interaction axis, keeping Atan screen-right and the officers outside screen-left; 50 mm equivalent perspective.
 
@@ -484,13 +488,13 @@ Atan at the right side of the plain shelter work table, right hand lowered and v
 
 16:9: lead right third, gesture room to right and restrained table context to left; officers remain offscreen.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 3 s. Atan raises his right forearm in one modest open-handed indication towards screen-right and settles into that position. Left hand stays still, mouth rests. End with the pointing arm held; do not also lower it, turn or speak.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked camera for 3 s. Atan raises his right forearm in one modest open-handed indication towards screen-right and settles into that position. Left hand stays still, mouth rests. End with the pointing arm held; do not also lower it, turn or speak.
 ```
 
 **Sound:** One subtle cloth shift under continuous narration and shelter air. No command speech or sword draw.
@@ -507,7 +511,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** lad rahe logon ko ekjut kiya.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** OFFICER-A-PROPOSED-v01, **MISSING** OFFICER-B-PROPOSED-v01, **MISSING** COMMAND-SHELTER-PROPOSED-v01, **MISSING** TABLE-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** OFFICER-A-PROPOSED-v01, **MISSING** OFFICER-B-PROPOSED-v01, **MISSING** COMMAND-SHELTER-PROPOSED-v01, **MISSING** TABLE-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S07-B-F01-9x16-PROPOSED, **MISSING** E01-S07-B-F01-16x9-PROPOSED.
 
@@ -518,7 +522,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -528,13 +532,13 @@ Two distinct anonymous officers listen towards offscreen-right in the fixed comm
 
 9:16: stagger A low-left and B upper-left into depth; keep both faces and the offscreen-right eyeline clear.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -544,13 +548,13 @@ Two distinct anonymous officers listen towards offscreen-right in the fixed comm
 
 16:9: A left third and B centre-left, shared looking room right; retain depth order and the same camera side.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked 3 s reaction shot. Both officers remain attentive with natural breathing only, eyes towards offscreen-right. Keep their mouths resting and hands still. No answering gesture or shared turn. Cut while the listening holds.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked 3 s reaction shot. Both officers remain attentive with natural breathing only, eyes towards offscreen-right. Keep their mouths resting and hands still. No answering gesture or shared turn. Cut while the listening holds.
 ```
 
 **Sound:** Continue the SAME narration sentence from S07-A without a new pickup or pause. Same room tone and quiet score. No spoken response.
@@ -569,7 +573,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** 1663 mein sandhi hui.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** WORKERS-A-PROPOSED-v01, **MISSING** WORKERS-B-PROPOSED-v01, **MISSING** WORKERS-C-PROPOSED-v01, **MISSING** RIVER-PROPOSED-v02, **MISSING** BEAM-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** WORKERS-A-PROPOSED-v01, **MISSING** WORKERS-B-PROPOSED-v01, **MISSING** WORKERS-C-PROPOSED-v01, **MISSING** RIVER-PROPOSED-v02, **MISSING** BEAM-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S08-A-F01-9x16-PROPOSED, **MISSING** E01-S08-A-F01-16x9-PROPOSED.
 
@@ -580,7 +584,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -590,13 +594,13 @@ At an unnamed riverbank worksite, two distinct adult workers A and B already sup
 
 9:16: stage depth and camera distance so the entire beam and both supporting bodies fit, clear of subtitle area.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -606,13 +610,13 @@ At an unnamed riverbank worksite, two distinct adult workers A and B already sup
 
 16:9: full beam across central strip with both carriers and the observer separated; all feet on dry ground.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for a 2.5 s editorial selection. Both carriers hold the beam already supported at waist height; bodies show natural weight and minimal breathing. The observer stands clear. Keep the beam rigid and all contact points unchanged. No lifting or walking in this setup.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Camera locked for a 2.5 s editorial selection. Both carriers hold the beam already supported at waist height; bodies show natural weight and minimal breathing. The observer stands clear. Keep the beam rigid and all contact points unchanged. No lifting or walking in this setup.
 ```
 
 **Sound:** Soft wood tension and river air. Add “1663 • Sandhi ke baad” in editing and carry the label into S08-B long enough to read. Sober music; no victory fanfare.
@@ -629,7 +633,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Phir rajya ko sambhalne mein bhi Atan ki aham bhoomika rahi.
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** WORKERS-A-PROPOSED-v01, **MISSING** WORKERS-B-PROPOSED-v01, **MISSING** RIVER-PROPOSED-v02, **MISSING** BEAM-PROPOSED-v01.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** WORKERS-A-PROPOSED-v01, **MISSING** WORKERS-B-PROPOSED-v01, **MISSING** RIVER-PROPOSED-v02, **MISSING** BEAM-PROPOSED-v01.
 
 **Starting frames:** **MISSING** E01-S08-B-F01-9x16-PROPOSED, **MISSING** E01-S08-B-F01-16x9-PROPOSED.
 
@@ -640,7 +644,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -650,13 +654,13 @@ Close crop of carrier A cream-clothed torso, two anatomically clear hands and fo
 
 9:16: both support hands fully visible around one contact area, horizontal beam extends beyond crop; allow quiet bottom band for captions.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
@@ -666,13 +670,13 @@ Close crop of carrier A cream-clothed torso, two anatomically clear hands and fo
 
 16:9: wider horizontal beam texture with both hands centre-left; keep the same support point and beam height.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked close insert for a 4.5 s editorial selection. One visible support hand makes one small adjustment of finger contact beneath the beam, then holds. The other visible hand and offscreen carrier continue supporting the beam. Beam stays level and fixed in size; no lift, walk, large slide or object transformation. Stop on the secure contact.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Locked close insert for a 4.5 s editorial selection. One visible support hand makes one small adjustment of finger contact beneath the beam, then holds. The other visible hand and offscreen carrier continue supporting the beam. Beam stays level and fixed in size; no lift, walk, large slide or object transformation. Stop on the secure contact.
 ```
 
 **Sound:** One tiny cloth/wood grip sound, same river ambience. Voice continues naturally from S08-A; do not force a pause at the picture cut. Keep treaty date label readable across the cut.
@@ -691,7 +695,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Aage woh Lachit Borphukan ke saath bhi ladenge. Lekin usse pehle...
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-FIELD-PROPOSED-v02, **MISSING** RIVER-PROPOSED-v02.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** ATAN-PROPOSED-v02, **MISSING** ATAN-FIELD-PROPOSED-v02, **MISSING** RIVER-PROPOSED-v02.
 
 **Starting frames:** **MISSING** E01-S09-F01-9x16-PROPOSED, **MISSING** E01-S09-F01-16x9-PROPOSED.
 
@@ -702,11 +706,11 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
 
 Starting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.
 
@@ -714,17 +718,17 @@ Atan alone on the proposed riverbank, hands at rest, gazing north across the wat
 
 9:16: Atan in left half with looking room screen-right, profile clear against the water band.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
-One adult illustrated reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
+One adult photorealistic historical reconstruction of Atan: tall lean-average silhouette, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle marks high on his anatomical LEFT forehead, dark hair in a compact low knot, clean-shaven. Exact face, hair and mark positions are proposed reconstruction. Match the future accepted face reference; retain anatomical left/right rather than mirroring. Costume: opaque grey-brown woven-looking gati wrapped around the torso, compact knot at anatomical RIGHT waist, cream lower wrap with a narrow muted-indigo edge, plain flat sandals. Field state: slight dust restricted to the lower hem; face and upper cloth remain clean. Maintain that same dust state across S06, S07 and S09. Exact cut, colour, footwear and drape are proposed reconstruction.
 
 Starting-frame camera: medium profile from east of Atan, 1.6 metre height, 55 mm equivalent perspective; his northward look reads screen-right.
 
@@ -732,13 +736,13 @@ Atan alone on the proposed riverbank, hands at rest, gazing north across the wat
 
 16:9: Atan left third, water and looking room fill right two-thirds; retain east camera and north gaze.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary move is a 0.25 m lateral camera truck towards local north across 7 s. Atan remains standing and keeps his gaze settled north; natural breathing only. Preserve face and field costume, with gentle water ripples as secondary motion. End still in profile; no turn-and-walk action.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. The only primary move is a 0.25 m lateral camera truck towards local north across 7 s. Atan remains standing and keeps his gaze settled north; natural breathing only. Preserve face and field costume, with gentle water ripples as secondary motion. End still in profile; no turn-and-walk action.
 ```
 
 **Sound:** River air rises slightly beneath restrained music. No Lachit voice, battle sounds or character speech.
@@ -755,7 +759,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 
 **Narration:** Is hamle ke baad, Assam dobara ladne layak kaise banega?
 
-**Required visual references:** **MISSING** STYLE-E01-v01, **MISSING** RIVER-PROPOSED-v02.
+**Required visual references:** **MISSING** STYLE-E01-REAL-v01, **MISSING** RIVER-PROPOSED-v02.
 
 **Starting frames:** **MISSING** E01-S10-F01-9x16-PROPOSED, **MISSING** E01-S10-F01-16x9-PROPOSED.
 
@@ -766,39 +770,39 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 **Starting-frame image prompt — 9:16:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
 Starting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.
 
-Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.
+Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Photographic material detail and quiet central area for editor text.
 
 9:16: clear horizon, calm middle-water area for closing question, sufficient lower space for a short reconstruction note.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Starting-frame image prompt — 16:9:**
 
 ```text
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
 Starting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.
 
-Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.
+Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Photographic material detail and quiet central area for editor text.
 
 16:9: river opens horizontally, quiet centre for question; preserve bank geometry and same early light.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.
 ```
 
 **Animation prompt:
 
 ```text
-Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve painted contours and surface texture across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Raise the camera vertically by 1.5 m over the first 5.5 s of the intended 7 s edit, with the north-facing angle fixed; then stop and hold for 1.5 s. Water ripples stay small and coherent, far-bank foliage almost still. End on the quiet higher wide. The final hold contains no new camera move.
+Keep the supplied accepted starting frame as the identity, costume, composition and light anchor. Preserve photographic realism, natural skin texture and physical material detail across time. Visual performance is silent with mouths at rest. Narration, music and sound effects are separate editorial tracks. Raise the camera vertically by 1.5 m over the first 5.5 s of the intended 7 s edit, with the north-facing angle fixed; then stop and hold for 1.5 s. Water ripples stay small and coherent, far-bank foliage almost still. End on the quiet higher wide. The final hold contains no new camera move.
 ```
 
 **Sound:** Question ends near 58.4 s after real audio alignment. Water continues; restrained score resolves to an open quiet note and fades within 60.0 s. Add disclosure in editing.
@@ -815,7 +819,7 @@ Keep the supplied accepted starting frame as the identity, costume, composition 
 2. Build S07-A before its reaction cutaway and S08-A before its contact insert. Inspect the parent setup and child stills together for camera side and spatial consistency.
 3. Approve starting frames before animation. E01-S06 remains the first representative motion test when generation is separately authorised. Inspect actual frame edges, hands, cloth, direction and source/end states before scaling.
 4. Keep cuts and generation lengths separate. In a later submission, record provider, schema date, attached reference roles, job ID, actual duration, take, returned cost and accepted path. All such fields are null in shots.json now.
-5. Maps/dates/captions/source notes are editor-built. Keep the painterly treatment, natural proportions, clear hands and stable colours. Do not mirror Atan’s face marks or waist knot. Independent framing is required for each ratio.
+5. Maps/dates/captions/source notes are editor-built. Keep photographic realism, natural proportions, anatomically clear hands and stable material colours. Do not mirror Atan’s face marks or waist knot. Independent framing is required for each ratio.
 6. Read SOURCE_PLAN.md for the exact layouts, historical qualifications, caption placement guide and pronunciation checklist. No historical portrait or exact archaeological plan is claimed.
 
 **Status:** Prompt package prepared. Media generation and media inspection have not occurred.

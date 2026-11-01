@@ -1,0 +1,13 @@
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
+
+REQUIRED INPUTS — MISSING: accepted photorealistic Atan face plus the accepted preceding costume view, when one exists. Bind identity and costume separately if supported.
+
+A proposed reconstruction of Atan Burhagohain, an adult Ahom statesman: broad cheek planes, rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark brown almond-shaped eyes, straight medium-width nose, two subtle small moles high on his anatomical left forehead, dark hair tied in a compact low knot, clean-shaven. Exact facial geometry, mole positions, hair and complexion interpretation are artistic proposals. Maintain a real human appearance rather than a celebrity likeness.
+
+Grey-brown gati, an opaque woven-looking cloth closely wrapped around the upper torso with its ends meeting in a compact knot at his anatomical right waist; cream lower wrap with a narrow muted-indigo edge; plain flat sandals. Exact drape, fibre, cut, colour and footwear are proposed reconstruction, not an authenticated outfit. This is wrapped cloth, not an invented stitched robe or ornamental scarf.
+
+Field state: dust restricted to the lower hem; face and upper cloth remain clean.
+
+One intact full-body three-quarter reference, crown of head through soles fully visible, plain neutral-grey background and diffuse reference light. Upright relaxed posture, separate visible hands resting at sides, human anatomy and believable cloth weight. Keep the same face, body proportions, knot side and garment construction; in the rear view, do not turn the face back towards the camera. The reference is a physically dressed performer photographed in the chosen pose. Render one person in one panel.
+
+Historical scope: an artistic reconstruction, not an authenticated likeness or archival photograph. The source plan separates the broad chronicle-derived cues from proposed exact details. Numerical age and real height are not established; 1.80 m is an authoring-scale convention only.

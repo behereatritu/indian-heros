@@ -1,0 +1,108 @@
+{
+  "revision": "1.1",
+  "style_reference": "STYLE-E01-REAL-v01",
+  "status": "PROMPTS_ONLY_REFERENCES_MISSING",
+  "approved_assets": 0,
+  "identity_status": "Atan’s exact face is a proposed reconstruction; anonymous supporting cast are invented staging. Written historical qualifiers remain in SOURCE_PLAN.md.",
+  "generation_order": [
+    "Atan/01_master_face.txt",
+    "Accept the real image before creating derived views",
+    "Face angles and field costume",
+    "Court costume and expressions",
+    "Anonymous supporting cast",
+    "Scene starting frames",
+    "E01-S06 representative motion test"
+  ],
+  "prompts": [
+    {
+      "path": "Atan/01_master_face.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/02_face_front.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/03_face_left_profile.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/04_face_right_profile.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/05_full_body_field_front.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/06_full_body_field_rear.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/07_full_body_field_three-quarter.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/08_full_body_court_front.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/09_full_body_court_rear.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/10_expression_listening.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Atan/11_expression_resolved.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Distant-Column/01_group_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Officer-A/01_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Officer-B/01_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Withdrawal-Group/01_group_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Worker-A/01_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Worker-B/01_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    },
+    {
+      "path": "Worker-C/01_reference.txt",
+      "media_status": "MISSING",
+      "accepted_path": null
+    }
+  ]
+}

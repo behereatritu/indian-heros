@@ -1,5 +1,5 @@
 reference_id,role,status,description,media_path
-STYLE-E01-v01,style,MISSING,"Painterly style reference matching the source plan; text specification exists, reference image missing.",
+STYLE-E01-REAL-v01,style,MISSING,"Photorealistic cinematic style reference matching STYLE-E01-REAL-v01; written specification exists, approved photographic reference image missing.",
 ATAN-PROPOSED-v02,identity,MISSING,"Face close-up, three-quarter and profile views. Evidence-informed broad cues; exact likeness proposed.",
 ATAN-COURT-PROPOSED-v02,costume,MISSING,"Intact clean court costume/body reference; right-waist knot, cream lower wrap, indigo edge.",
 ATAN-FIELD-PROPOSED-v02,costume,MISSING,"Same garments, dust only along lower hem. Face reference separate.",

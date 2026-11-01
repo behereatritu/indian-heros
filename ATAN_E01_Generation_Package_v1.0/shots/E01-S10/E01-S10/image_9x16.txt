@@ -1,11 +1,11 @@
-Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 Palette: deep indigo #29384B, river blue-green #4F7776, foliage #62715A, wood #79523A, grey-brown gati #746657, cream cloth #E8DCC4, small warm-light accents #B99562. These are proposed art colours, not historical pigment measurements.
 
 Starting-frame camera: wide view from water-edge height 1.2 metres, looking north with a slight fixed downward angle; 35 mm equivalent perspective.
 
-Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Illustrated detail and quiet central area for editor text.
+Empty water-edge view north from the same L05 bank. Foreground bank texture low in frame, broad calm water through the middle, low indistinct wooded far bank and coherent east early light. Earlier actor positions are behind the camera; nobody disappears from the visible shot. Photographic material detail and quiet central area for editor text.
 
 9:16: clear horizon, calm middle-water area for closing question, sufficient lower space for a short reconstruction note.
 
-Single starting frame, frozen before the instructed action. Clearly drawn subject edges and legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve the illustrated treatment throughout.
+Single starting frame, frozen before the instructed action. Clearly focused subjects and anatomically legible hands. Plain surfaces remain unlettered; add dates, source notes, labels and subtitles in editing. Preserve photographic realism throughout.

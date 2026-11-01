@@ -10,7 +10,7 @@ Stage: research and preproduction. This pack contains a six-episode treatment, a
 
 Format: six connected Reels, approximately 45–60 seconds each, composed for 9:16; a separately edited continuous 4–6-minute 16:9 YouTube film. These are creative targets, not measured audio or provider clip durations. Start with Episode 1 as the pilot before scaling.
 
-Audience: Hindi/Hinglish-speaking viewers who need no prior knowledge of Ahom history. Use clear conversational narration, cinematic illustrated animation and restrained drama. Keep violence non-graphic. This is a historical biography; supernatural abilities would require a separate fictional adaptation.
+Audience: Hindi/Hinglish-speaking viewers who need no prior knowledge of Ahom history. Use clear conversational narration, photorealistic cinematic historical drama and restrained drama. Keep violence non-graphic. This is a historical biography; supernatural abilities would require a separate fictional adaptation.
 
 Creative premise: a leader must defend a threatened kingdom, then navigate the dangerous politics within it. His defining screen trait is attention: he listens, weighs consequences and acts deliberately. Show his choices through people and physical tasks instead of lengthy exposition.
 
@@ -101,7 +101,7 @@ All faces and personal costume designs are **artistic reconstructions**, not aut
 | RAMPART-PROPOSED-v01 | Earthen defensive works with timber details. | Exact form and materials require reference verification. |
 | SEAT-SYMBOL-v01 | An unoccupied ceremonial seat in silhouette. | Editorial symbol of rulership; no claim that a specific surviving throne was used. |
 
-Style proposal: painterly 2.5D animation, visible ink contours, natural human proportions, warm wood and earth, river blue-green, restrained saturated accents. Distinctive enough for a recurring channel, grounded enough for a biography.
+Style direction: photorealistic historical cinema, natural human proportions and skin texture, physical timber and woven-cloth sets, warm earth and subdued river blue-green, restrained grading. Keep the same photographic treatment across the recurring channel; all exact likenesses remain reconstructions.
 
 Character progression: express age/time changes through separately versioned reference sheets; never let a model improvise a new face between years. Use separate costume versions for court and field. Do not introduce undocumented wounds.
 
@@ -111,7 +111,7 @@ Pronunciation checklist: Atan Burhagohain, Lachit Borphukan, Ahom, Garhgaon, Sar
 
 The planned durations total **60 seconds**. These are editorial slots, not submitted generation parameters. A slot may need two generated takes or a still with controlled animation after live model inspection. Only actual moving-character clips should be described as character animation.
 
-Global prompt style: “Painterly cinematic historical animation, natural human proportions, visible ink contours, restrained earth and blue-green palette, grounded performance, no photoreal archival treatment. No generated lettering, logos or modern objects.” Apply only approved historical references. Proposed IDs below do not attach reference media.
+Global prompt style: “Photorealistic cinematic historical drama, natural human proportions and textures, restrained earth and blue-green palette, grounded performance; synthetic historical reconstruction, never archival evidence. No generated lettering, logos or modern objects.” Apply only approved historical references. Proposed IDs below do not attach reference media.
 
 | Shot / time | Narration cue / claim | One action and camera | Portrait / landscape direction | Continuity |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ Global prompt style: “Painterly cinematic historical animation, natural human 
 
 Provider-neutral English prompts, one per shot:
 
-1. **Camera:** slow forward dolly. **Subject:** an empty, minimally ornamented ceremonial seat shown in silhouette. **Look:** the shared painterly style, low warm side light. **Action:** light gradually reveals the unoccupied seat. Symbolic editorial image; do not invent a detailed historical throne.
+1. **Camera:** slow forward dolly. **Subject:** an empty, minimally ornamented ceremonial seat shown in silhouette. **Look:** the shared photorealistic cinematic style, low warm side light. **Action:** light gradually reveals the unoccupied seat. Symbolic editorial image; do not invent a detailed historical throne.
 2. **Camera:** medium three-quarter framing, locked camera. **Subject:** approved Atan court identity and costume references. **Look:** soft daylight, shared style. **Action:** he slowly turns away from the viewer. Quiet restraint. No speech or visible crown-offering ceremony.
 3. Build this map in editing from checked geographic data; no image/video generation prompt.
 4. **Camera:** static distant wide shot. **Subject:** a marching military column represented as distant silhouettes in a seventeenth-century Assam setting. **Look:** muted haze, shared style. **Action:** the column passes across the shot. Validate weapons and dress against references before submission. No foreground combat or burning buildings.

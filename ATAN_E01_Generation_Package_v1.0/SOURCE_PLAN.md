@@ -1,8 +1,10 @@
 # ATAN — Episode 1: Raja banne se inkaar
 
-## Integrated production plan • v1.0 • 1 November 2026
+## Integrated production plan • v1.1 • 1 November 2026
 
-**Scope:** Episode 1 only. **Master:** a planned 60-second, 9:16 narrated Reel. **Companion composition:** a separately framed 16:9 version of these same scenes. **Source brief:** Atan_Burhagohain_Pilot_Pack.md, v0.1. **Preserved scene IDs:** E01-S01 through E01-S10. **Style:** painterly illustrated animation with visible ink contours and natural human proportions.
+**Scope:** Episode 1 only. **Master:** a planned 60-second, 9:16 narrated Reel. **Companion composition:** a separately framed 16:9 version of these same scenes. **Source brief:** Atan_Burhagohain_Pilot_Pack.md, v0.1. **Preserved scene IDs:** E01-S01 through E01-S10. **Style:** photorealistic cinematic historical drama with natural human proportions and material textures.
+
+**Visual-style correction v1.1:** The current direction is photorealistic historical cinema. This supersedes the previous visual treatment in the supplied package. Existing illustrated tests are not approved photographic face, costume or location references. Scene IDs, narration, timings and historical qualifications are retained.
 
 **Planning is complete.** The script and shot specifications below are the production baseline. Timing is an editorial estimate, not an audio measurement. All new faces, costumes, sets, reference sheets and frames are **PROPOSED**. There are **zero approved visual assets**, zero generated clips and zero approved voice recordings in this handoff. No paid media was generated. The original multi-episode pilot pack remains the project overview; this document governs Episode 1 when its details differ.
 
@@ -142,19 +144,19 @@ All lettering, dates, subtitles and source notes are composited in editing. None
 
 | Item | Status |
 |---|---|
-| Painterly illustrated style and existing scene IDs | **USER-SET** |
-| Script, timing and production specifications in this document | **PLANNING BASELINE v1.0** |
+| Photorealistic historical cinema and existing scene IDs | **USER-SET; CURRENT** |
+| Script, timing and production specifications in this document | **PLANNING BASELINE v1.1** |
 | Character/costume/location designs below | **PROPOSED, evidence-labelled** |
 | Generated reference images, stills and motion | **NOT CREATED** |
 | Approved visual assets and approved narrator audio | **NONE** |
 
 “Planning baseline” does not convert a proposed design into an approved asset. Use the exact word **APPROVED** only after an actual image or recording has been inspected and accepted.
 
-### STYLE-E01-v01 — preserved illustrated direction
+### STYLE-E01-REAL-v01 — photorealistic historical cinema
 
-Use the following positive style block at the start of each illustration prompt:
+Use the following positive style block at the start of every character and physical-location image prompt:
 
-> Painterly 2.5D historical illustration with visible fine ink contours, hand-painted opaque colour shapes, subtle paper texture confined to painted surfaces, natural human proportions and readable facial planes. Earth and warm wood balance river blue-green. Deep indigo shadows retain detail. Faces, fingers and garment edges remain clearly drawn. Performance is restrained and physically grounded. Light follows the specified set direction consistently.
+> Photorealistic cinematic historical drama set in seventeenth-century Assam. Depict real human performers and physically built environments with natural skin texture, fine pores, individual hair strands, subtle facial asymmetry and believable human proportions. Timber, cloth, woven fibres, soil and water have natural material detail and physical weight. The frame reads as a photographed live-action film production, with coherent perspective, motivated light, restrained colour grading and clearly focused subjects. Earth and warm wood balance subdued river blue-green. Preserve natural shadow detail and consistent light direction. Photographic realism is the visual standard for characters, costumes, props and locations.
 
 | Palette role | Proposed colour |
 |---|---|
@@ -168,7 +170,7 @@ Use the following positive style block at the start of each illustration prompt:
 
 These hex values are art direction, not measurements of historical pigments or cloth. Local lighting may change rendered brightness, but the base materials must not change colour between shots.
 
-**Visual exclusion checklist for review:** photoreal skin, glossy toy-like 3D, superhero anatomy, modern flags, invented royal emblems, current brick-palace facades, generic fantasy armour, religious villain coding, exaggerated triumph, image-generated writing, graphic violence and indiscriminate smoke/fire. Apply only compatible constraints supported by the eventual provider; the prompts below use positive descriptions and bounded staging rather than long negative lists.
+**Visual exclusion checklist for review:** cartoon outlines, painted shading, waxy skin, glossy toy-like 3D, superhero anatomy, modern flags, invented royal emblems, current brick-palace facades, generic fantasy armour, religious villain coding, exaggerated triumph, image-generated writing, graphic violence and indiscriminate smoke/fire. Apply only compatible constraints supported by the eventual provider; the prompts below use positive descriptions and bounded staging rather than long negative lists.
 
 ### Character and costume specifications
 
@@ -240,7 +242,7 @@ The empty seat and turn away are symbols. Do not stage nobles offering a physica
 
 ### L02 — GARHGAON-APPROACH-PROPOSED-v01
 
-S04 only. A shallow, illustrated view towards a settlement edge; not a panoramic reconstruction of Garhgaon.
+S04 only. A shallow, photographed view towards a settlement edge; not a panoramic reconstruction of Garhgaon.
 
 | Layout element | Position / specification |
 |---|---|
@@ -283,7 +285,7 @@ Extends RIVER-PROPOSED-v01. S08–S10 share an **unnamed Assam riverbank reconst
 
 | Layout element | Position / specification |
 |---|---|
-| Footprint | 12 m across X; dry bank Y=0–8; water beyond Y=8. Far bank is a low, indistinct painted band. |
+| Footprint | 12 m across X; dry bank Y=0–8; water beyond Y=8. Far bank is a low, indistinct distant bank. |
 | Landmarks | Small timber shelter near (1,2); timber stack (2,4); a single tree near (10,2). |
 | Beam action | Beam centre moves (4,5) → (6,5), long axis along X; A/B support opposite ends. C stays clear near (7.8,6). |
 | Atan in S09 | (5,5), looking north towards water. He is absent from S08; this is not proof he personally supervised the workers. |
@@ -301,40 +303,40 @@ No prompt below has been submitted. First create and inspect references in this 
 
 **Face base prompt:**
 
-> Apply STYLE-E01-v01. One proposed illustrated reconstruction of Atan Burhagohain, a seventeenth-century Ahom statesman: adult, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle small moles high on the left forehead, dark hair tied in a compact low knot, clean-shaven. Neutral closed mouth, calm attentive gaze, head and upper shoulders clearly visible against an even neutral-grey background. Front three-quarter view, eye-level, even diffuse reference lighting. Clear ink edges and painted facial planes. Exact facial geometry and hair are an artistic proposal, not a historical portrait.
+> Apply STYLE-E01-REAL-v01. One proposed photorealistic historical reconstruction of Atan Burhagohain, a seventeenth-century Ahom statesman: adult, broad cheek planes and rounded-square jaw, medium warm-brown complexion with restrained red undertones, dark almond-shaped eyes, straight medium-width nose, two subtle small moles high on the left forehead, dark hair tied in a compact low knot, clean-shaven. Neutral closed mouth, calm attentive gaze, head and upper shoulders clearly visible against an even neutral-grey background. Front three-quarter view, eye-level, even diffuse reference lighting. Natural skin texture, fine pores and clearly focused facial detail. Exact facial geometry and hair are an artistic proposal, not a historical portrait.
 
 **Turnaround prompt, after a face base is accepted:**
 
-> Preserve the supplied accepted face's geometry, mole positions and hair knot. Render ONE [front / left profile / right profile / rear / three-quarter] full-body view of the same character, upright neutral stance, hands resting separately and fully readable, plain neutral-grey background, STYLE-E01-v01. Match ATAN-FIELD-PROPOSED-v02: grey-brown cloth wrapped around upper torso, compact right-waist knot, cream lower wrap with narrow muted-indigo edge, flat plain sandals; light dust restricted to lower hem. Maintain the same body proportions and 1.80 m authoring scale. This view is costume and shape reference, not authenticated dress documentation.
+> Preserve the supplied accepted face's geometry, mole positions and hair knot. Render ONE [front / left profile / right profile / rear / three-quarter] full-body view of the same character, upright neutral stance, hands resting separately and fully readable, plain neutral-grey background, STYLE-E01-REAL-v01. Match ATAN-FIELD-PROPOSED-v02: grey-brown cloth wrapped around upper torso, compact right-waist knot, cream lower wrap with narrow muted-indigo edge, flat plain sandals; light dust restricted to lower hem. Maintain the same body proportions and 1.80 m authoring scale. This view is costume and shape reference, not authenticated dress documentation.
 
 Submit separate views, not the bracketed menu literally. Do not cut off the head or feet in the intact full-body master. Additional face crops are separate deliverables. Expressions needed here: neutral, listening with a slight eyebrow adjustment, and settled resolve; no shouting or invented speaking performance.
 
 ### Empty location and prop prompts
 
-For each location plate, attach its layout as a blocking reference only and a separate illustrated style reference. The overhead plan should not turn the finished image into a diagram.
+For each location plate, attach its layout as a blocking reference only and a separate photographic style reference. The overhead plan supplies blocking only; finished environment frames remain photographic rather than diagrammatic.
 
 | Asset | Still-reference prompt |
 |---|---|
-| L01 plate | “STYLE-E01-v01. Empty symbolic timber hall, 8 × 10 m authoring layout; four plain posts at the specified corners, an unoccupied minimally ornamented seat deep at rear centre, woven wall surfaces, west-side warm diffuse light. Eye-level view north from the south entrance. Plain surfaces left for editor-added lettering. Architectural staging is a proposal.” |
-| L02 plate | “STYLE-E01-v01. Empty shallow settlement-edge view for seventeenth-century Garhgaon: earthen route crossing the middle distance, three indistinct timber roof silhouettes beyond, foreground trunk at layout-left, overcast west-side light. Readable foreground; atmospheric separation stays behind the route. Proposed reconstruction, with timber architecture rather than the later surviving brick palace.” |
-| L03 plate | “STYLE-E01-v01. Empty rural path receding between low vegetation, forked trunk at layout-left, path bending from near-left to far-right, overcast light from west. Proposed unnamed Assam setting. Clear route and four non-overlapping future actor positions.” |
-| L04 plate | “STYLE-E01-v01. Empty simple timber command shelter, open south front, west light opening, four posts and one low work table in the positions specified in L04. Camera south looking north; visible room for three separate people around the table. Plain woven surfaces and a legible floor. Proposed set, not an identified historical building.” |
-| L05 plate | “STYLE-E01-v01. Empty unnamed Assam riverbank worksite; water beyond the northern bank edge, small timber shelter left, timber stack left-middle, one tree right, low indistinct far bank. Soft eastern early daylight. Keep the dry working strip continuous and wide enough for three adults carrying one beam.” |
-| Seat / beam | “STYLE-E01-v01. One [plain low-back timber seat / straight two-metre timber beam] isolated against even neutral grey, complete silhouette, three-quarter angle, consistent scale and clear surface edges. Plain period-neutral design; R/P production prop.” |
+| L01 plate | “STYLE-E01-REAL-v01. Empty symbolic timber hall, 8 × 10 m authoring layout; four plain posts at the specified corners, an unoccupied minimally ornamented seat deep at rear centre, woven wall surfaces, west-side warm diffuse light. Eye-level view north from the south entrance. Plain surfaces left for editor-added lettering. Architectural staging is a proposal.” |
+| L02 plate | “STYLE-E01-REAL-v01. Empty shallow settlement-edge view for seventeenth-century Garhgaon: earthen route crossing the middle distance, three indistinct timber roof silhouettes beyond, foreground trunk at layout-left, overcast west-side light. Readable foreground; atmospheric separation stays behind the route. Proposed reconstruction, with timber architecture rather than the later surviving brick palace.” |
+| L03 plate | “STYLE-E01-REAL-v01. Empty rural path receding between low vegetation, forked trunk at layout-left, path bending from near-left to far-right, overcast light from west. Proposed unnamed Assam setting. Clear route and four non-overlapping future actor positions.” |
+| L04 plate | “STYLE-E01-REAL-v01. Empty simple timber command shelter, open south front, west light opening, four posts and one low work table in the positions specified in L04. Camera south looking north; visible room for three separate people around the table. Plain woven surfaces and a legible floor. Proposed set, not an identified historical building.” |
+| L05 plate | “STYLE-E01-REAL-v01. Empty unnamed Assam riverbank worksite; water beyond the northern bank edge, small timber shelter left, timber stack left-middle, one tree right, low indistinct far bank. Soft eastern early daylight. Keep the dry working strip continuous and wide enough for three adults carrying one beam.” |
+| Seat / beam | “STYLE-E01-REAL-v01. One [plain low-back timber seat / straight two-metre timber beam] isolated against even neutral grey, complete silhouette, three-quarter angle, consistent scale and clear surface edges. Plain period-neutral design; R/P production prop.” |
 
 ## 6. Scene production cards
 
 ### Prompt assembly and camera conventions
 
-For each still: **STYLE-E01-v01 + the relevant character/costume specification + the scene's still prompt + one aspect-ratio composition instruction.** Attach actual accepted identity, costume and location images in the future provider's supported roles. Never submit a scene using an uninspected design merely because its ID appears here.
+For each still: **STYLE-E01-REAL-v01 + the relevant character/costume specification + the scene's still prompt + one aspect-ratio composition instruction.** Attach actual accepted identity, costume and location images in the future provider's supported roles. Never submit a scene using an uninspected design merely because its ID appears here.
 
-Camera focal lengths below are **full-frame-equivalent visual shorthand**, not a claim of a real camera sensor, historical equipment or currently supported generation settings. Height, distance and subject placement are the controlling visual instructions. Keep the illustrated depth readable; avoid extreme photographic bokeh. Each animation has at most one primary camera move and one main human action.
+Camera focal lengths below are **full-frame-equivalent visual shorthand**, not a claim of a real camera sensor, historical equipment or currently supported generation settings. Height, distance and subject placement are the controlling visual instructions. Keep spatial depth readable; avoid extreme photographic bokeh. Each animation has at most one primary camera move and one main human action.
 
 Every scene still is named **E01-SXX-F01-PROPOSED** until accepted. Animation prompts refer to the future accepted still conditionally; none exists yet. The listed edit duration need not equal a provider's supported generation duration. Generate a sufficiently long take later and trim; never invent unsupported duration parameters.
 
 ### E01-S01 — empty seat / 00:00–00:04
 
-**Claim / status:** C07/A; R symbolic image. **Cast:** none. **References required:** STYLE-E01-v01, L01, SEAT-SYMBOL-v01. **Narration:** first script paragraph.
+**Claim / status:** C07/A; R symbolic image. **Cast:** none. **References required:** STYLE-E01-REAL-v01, L01, SEAT-SYMBOL-v01. **Narration:** first script paragraph.
 
 **Camera:** medium-wide insert, lens look 50 mm, height 1.2 m; north along the hall centreline. Start roughly 6.5 m from the seat, dolly forward only 0.25 m over the 4-second cut. End remains medium-wide; this small move cannot become a close-up. Seat stays empty.
 
@@ -346,7 +348,7 @@ Every scene still is named **E01-SXX-F01-PROPOSED** until accepted. Animation pr
 
 **Animation prompt:**
 
-> From the accepted E01-S01-F01 frame, move the camera forward in a straight line by only 0.25 m across the intended 4-second edit. The seat, posts and light direction remain fixed. A few dust motes pass only through the side-light shaft. End with the seat still unoccupied at nearly the opening scale. Keep the painted surface texture stable.
+> From the accepted E01-S01-F01 frame, move the camera forward in a straight line by only 0.25 m across the intended 4-second edit. The seat, posts and light direction remain fixed. A few dust motes pass only through the side-light shaft. End with the seat still unoccupied at nearly the opening scale. Keep physical surface texture stable.
 
 **Sound / edit:** low room air and a very soft wooden resonance. No crown clang. Cut directly to S02 on “Bhuyan”; retain room tone under the cut. Source teaser label is added in editing.
 
@@ -376,9 +378,9 @@ Every scene still is named **E01-SXX-F01-PROPOSED** until accepted. Animation pr
 
 **9:16 still prompt — texture layer only:**
 
-> Portrait blank warm-paper illustration plate, light cream painted surface with subtle edge variation, deep-indigo and blue-green accents confined to the outer margins, clean central region for a cartographic overlay. Match STYLE-E01-v01 without figures, symbols or lettering.
+> Portrait blank photographed warm-paper plate, light cream physical paper surface with subtle edge variation, deep-indigo and blue-green accents confined to the outer margins, clean central region for a editor-built cartographic overlay. Match STYLE-E01-REAL-v01 without figures, symbols or lettering.
 
-**Geographic frame specification:** draw the locator over a checked geographic base; show orientation and a restrained regional highlight. Label “1662 • Assam” in editing. Do not use a modern state polygon as the asserted 1662 kingdom boundary. Garhgaon does not need a precision pin in this four-second shot. The texture is optional: use an editor-created flat plate if sufficient.
+**Geographic frame specification:** draw the locator over a checked geographic base; show orientation and a restrained regional highlight. Label “1662 • Assam” in editing. Do not use a modern state polygon as the asserted 1662 kingdom boundary. Garhgaon does not need a precision pin in this four-second shot. The texture is optional: use an editor-created flat graphic plate if sufficient.
 
 **16:9 composition prompt:** landscape paper plate; locator on the left, date and region text on the right. Build a new graphic layout rather than enlarging the portrait.
 
@@ -438,7 +440,7 @@ Every scene still is named **E01-SXX-F01-PROPOSED** until accepted. Animation pr
 
 **Animation prompt:**
 
-> From the accepted S06 frame, the camera makes a straight 0.15 m dolly towards Atan across the intended 7-second cut. He listens, blinks once and makes one very slight nod near the end. Keep his mouth closed, facial planes, mole placement, hair knot and garment state unchanged. West-side light and timber post positions remain fixed. The offscreen listener stays offscreen; this is a silent performance beneath voiceover.
+> From the accepted S06 frame, the camera makes a straight 0.15 m dolly towards Atan across the intended 7-second cut. He listens, blinks once and makes one very slight nod near the end. Keep his mouth closed, facial geometry, mole placement, hair knot and garment state unchanged. West-side light and timber post positions remain fixed. The offscreen listener stays offscreen; this is a silent performance beneath voiceover.
 
 **Sound / edit:** soft shelter air and a quiet timber creak; no message text or invented spoken order. Editor-added retrospective appointment label. Carry room tone into S07 and cut on the small nod; this is illustrative, not a recorded historic exchange.
 
@@ -486,7 +488,7 @@ Every scene still is named **E01-SXX-F01-PROPOSED** until accepted. Animation pr
 
 **9:16 still prompt:**
 
-> Atan alone at L05 position (5,5), east-side camera viewing his profile as he looks north towards the river, reading screen-right. Preserve the same face, left-forehead marks where visible, low hair knot, grey-brown field gati and dust at lower hem. Quiet settled expression, hands at rest. Water forms an upper-middle horizontal band; tree and bank remain consistent with the location plate. Soft eastern daylight, face clearly painted. Place the profile in the left half of the portrait frame with visible looking room to screen-right.
+> Atan alone at L05 position (5,5), east-side camera viewing his profile as he looks north towards the river, reading screen-right. Preserve the same face, left-forehead marks where visible, low hair knot, grey-brown field gati and dust at lower hem. Quiet settled expression, hands at rest. Water forms an upper-middle horizontal band; tree and bank remain consistent with the location plate. Soft eastern daylight, face clearly focused with natural skin detail. Place the profile in the left half of the portrait frame with visible looking room to screen-right.
 
 **16:9 composition prompt:** place Atan in the left third, river and looking room across the right two-thirds; retain the same east-side viewpoint and northward eyeline.
 
@@ -504,7 +506,7 @@ Every scene still is named **E01-SXX-F01-PROPOSED** until accepted. Animation pr
 
 **9:16 still prompt:**
 
-> Water-edge view north from L05, the bank's foreground texture below, broad calm water in the middle, low indistinct wooded far bank above. The camera is beyond the earlier human positions, so the frame is empty of people. Soft eastern early light consistent with S08 and S09, deep blue-green water and restrained warm edge highlights. Portrait composition leaves a calm central region for the final question, preserving a clear horizon and painted detail.
+> Water-edge view north from L05, the bank's foreground texture below, broad calm water in the middle, low indistinct wooded far bank above. The camera is beyond the earlier human positions, so the frame is empty of people. Soft eastern early light consistent with S08 and S09, deep blue-green water and restrained warm edge highlights. Portrait composition leaves a calm central region for the final question, preserving a clear horizon and natural material detail.
 
 **16:9 composition prompt:** open the river horizontally, leave central water quiet for the final question and keep bank/horizon proportions readable. Retain the same eastern light and low rise; do not add mountains, fleets or bridges.
 
@@ -567,7 +569,7 @@ Portrait and landscape use the same evidence and narration but independent frami
 | Costume | Accepted intact costume/body view: wrap, knot side, colour, silhouette, footwear and dust state. |
 | Location | Accepted empty plate: landmarks, architectural placement and light. |
 | Blocking | Layout coordinates/plan: actor placement and camera side only; do not copy a diagram's visual style. |
-| Style | Accepted painterly sample: line, paint handling, proportions and palette; not a new identity source. |
+| Style | Accepted photographic style sample: natural skin, physical materials, motivated light, restrained grading and human proportions; not a new identity source. |
 | Animation start frame | Accepted scene still; inspect composition, identity, hands and costume before motion. |
 
 Role syntax and image count must be mapped to the eventual provider's live schema. Nothing is attached by a prose alias. No current model, lens preset, price, supported duration or plan entitlement is asserted in this provider-neutral handoff.
@@ -593,7 +595,7 @@ For **every row** below: model/schema date = not selected; job ID = none; genera
 
 1. Record/read the 60-second script and verify names. Adjust timing estimates to the accepted take, retaining scene IDs and all evidence qualifications.
 2. Create the Atan face/costume references, supporting silhouettes, empty locations and essential props. Inspect evidence versus invention before marking any reference APPROVED.
-3. Make the ten portrait compositions and the independently framed landscape versions. S03 is an editor-built locator with optional illustrated texture, not a generated geographical map.
+3. Make the ten portrait compositions and the independently framed landscape versions. S03 is an editor-built locator with optional photographed paper texture, not a generated geographical map.
 4. Test **E01-S06** in motion first. Accept only if the same face, two forehead marks, hair, cloth, light and restrained performance persist. A static montage is not proof of character-animation quality.
 5. Animate the remaining accepted frames in bounded batches. Record job IDs, exact reference bindings, returned duration/cost, take status and rejection reasons. Recover uncertain jobs before retrying.
 6. Assemble narration, captions, sound and ten scenes. Inspect the actual exported video and listen to the complete mix. Retain separate portrait and landscape composition checks.
@@ -606,7 +608,7 @@ For **every row** below: model/schema date = not selected; job ID = none; genera
 - No invented face, costume, setting or private exchange is presented as verified evidence.
 - Every recurring face, mole, hair knot, cloth knot, landmark, shadow and screen direction matches the accepted references.
 - All hands and object contacts are plausible; the beam has fixed size and weight; no body merges or slides.
-- The visual language stays painterly and illustrated throughout, including generated frames and editor-created graphics.
+- Characters and physical environments remain photorealistic throughout. S03 maps and other editorial overlays retain clear graphic typography without changing the film's photographic character/set direction.
 - Names are heard and checked, captions follow actual speech, source/disclosure text is readable, and no overlay hides an essential gesture.
 - Both aspect ratios are inspected independently; duration, resolution, frame rate and audio levels are measured from the actual exports.
 
